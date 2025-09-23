@@ -10,15 +10,15 @@ from transformers import BlipProcessor, BlipForConditionalGeneration
 import io
 from streamlit import rerun
 
-# =====================
-# Настройки
-# =====================
+# 
+# Настройки S3 и ChromaDB
+# 
 S3_ENDPOINT = "http://localhost:9000"
 S3_BUCKET = "images"
 S3_ACCESS_KEY = "admin"
 S3_SECRET_KEY = "admin123"
 
-# --- подключение к Chroma и S3
+# подключение к Chroma и S3
 client = chromadb.HttpClient(host="localhost", port=8000)
 s3 = boto3.client(
     "s3",
@@ -27,7 +27,7 @@ s3 = boto3.client(
     aws_secret_access_key=S3_SECRET_KEY,
 )
 
-# --- модели
+# модели CLIP и BLIP
 device = "cuda" if torch.cuda.is_available() else "cpu"
 clip_model, clip_preprocess = clip.load("ViT-B/32", device=device)
 blip_processor = BlipProcessor.from_pretrained("Salesforce/blip-image-captioning-base")
@@ -37,9 +37,9 @@ blip_model = BlipForConditionalGeneration.from_pretrained(
     device_map={"": device}
 )
 
-# =====================
+# 
 # Вспомогательные функции
-# =====================
+# 
 def list_collections():
     return [c.name for c in client.list_collections()]
 
@@ -133,7 +133,7 @@ def process_directory(directory: str, resolution: int, collection_name: str):
         # 4) в S3
         upload_to_s3(path, f"{image_id}_{filename}")
 
-        # обновляем прогресс
+        # обновление прогресса
         progress.progress(idx / total)
 
 def search_images(query: str, collection_name: str, top_k: int = 3):
@@ -146,15 +146,15 @@ def load_image_from_s3(key: str):
     obj = s3.get_object(Bucket=S3_BUCKET, Key=key)
     return Image.open(io.BytesIO(obj["Body"].read()))
 
-# =====================
+# 
 # Streamlit UI
-# =====================
+# 
 st.set_page_config(page_title="Image Manager", layout="wide")
 st.title("📦 Image Manager")
 
 tabs = st.tabs(["🗑 Управление коллекциями", "⬆️ Загрузка изображений", "🔎 Поиск изображений"])
 
-# --- Tab 1: Коллекции
+# Tab 1: Коллекции
 with tabs[0]:
     st.subheader("Управление коллекциями")
     collections = list_collections()
@@ -182,7 +182,7 @@ with tabs[0]:
         else:
             st.info("Нет коллекций для удаления")
 
-# --- Tab 2: Загрузка
+# Tab 2: Загрузка
 with tabs[1]:
     st.subheader("Загрузка изображений")
 
@@ -202,7 +202,7 @@ with tabs[1]:
             else:
                 st.error("Путь к папке неверный!")
 
-# --- Tab 3: Поиск
+# Tab 3: Поиск
 with tabs[2]:
     st.subheader("Поиск изображений")
     collections = list_collections()

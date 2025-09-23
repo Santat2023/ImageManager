@@ -17,9 +17,17 @@ cd ImageManager
 
 ### 2. Создайте виртуальное окружение
 
-```bash
+
+**Windows (PowerShell):**
+```powershell
 python -m venv venv
-venv\Scripts\activate
+.\venv\Scripts\Activate
+```
+
+**Linux/Mac:**
+```bash
+python3 -m venv venv
+source venv/bin/activate
 ```
 
 ### 3. Установите зависимости
