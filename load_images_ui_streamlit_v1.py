@@ -15,8 +15,8 @@ from streamlit import rerun
 # 
 S3_ENDPOINT = "http://localhost:9000"
 S3_BUCKET = "images"
-S3_ACCESS_KEY = "admin"
-S3_SECRET_KEY = "admin123"
+S3_ACCESS_KEY = "minioadmin"
+S3_SECRET_KEY = "minioadmin"
 
 # подключение к Chroma и S3
 client = chromadb.HttpClient(host="localhost", port=8000)
@@ -26,6 +26,11 @@ s3 = boto3.client(
     aws_access_key_id=S3_ACCESS_KEY,
     aws_secret_access_key=S3_SECRET_KEY,
 )
+try:
+    s3.create_bucket(Bucket=S3_BUCKET)
+    print(f"Bucket '{S3_BUCKET}' created (or already exists).")
+except Exception as e:
+    print(e)
 
 # модели CLIP и BLIP
 device = "cuda" if torch.cuda.is_available() else "cpu"

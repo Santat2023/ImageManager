@@ -1,0 +1,23 @@
+# Игнорировать саму папку .git (обычно не нужно, но добавим по запросу)
+.git/
+
+# Игнорировать виртуальное окружение
+venv/
+
+# Игнорировать все exe-файлы
+*.exe
+
+# Игнорировать все файлы внутри chroma-data, но оставить саму папку
+chroma-data/*
+
+# Игнорировать все файлы внутри minio-data, но оставить саму папку
+minio-data/*
+pyinstaller load_images_ui_tkinker_v2.spec
+
+start.bat
+
+dist/
+
+build/
+ImageManager_release_0.01.zip
+ImageManager_release_0.01/*
