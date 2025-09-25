@@ -59,7 +59,11 @@ docker-compose up -d
 ### 5. Запустите приложение
 
 ```bash
-streamlit run load_images_ui_v2.py
+streamlit run load_images_ui_v1.py
+```
+или Tkinker UI
+```bash
+python load_images_ui_tkinker_v2.py
 ```
 
 ---
