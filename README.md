@@ -2,7 +2,7 @@
 
 ## Описание
 
-**ImageManager** — это приложение на Python с интерфейсом Streamlit/Tkinker для управления коллекциями изображений, их загрузки, поиска по описанию и хранения в MinIO (S3) и ChromaDB.
+**ImageManager** — это приложение на Python с интерфейсом Tkinker для управления коллекциями изображений, их загрузки, поиска по описанию и хранения в MinIO (S3) и Qdrant.
 
 ---
 
@@ -59,11 +59,7 @@ docker-compose up -d
 ### 5. Запустите приложение
 
 ```bash
-streamlit run load_images_ui_v1.py
-```
-или Tkinker UI
-```bash
-python load_images_ui_tkinker_v2.py
+python load_images_ui_tkinker_qdrant_v3.py
 ```
 
 ---
@@ -79,8 +75,8 @@ python load_images_ui_tkinker_v2.py
 ## Настройки
 
 - **MinIO** запускается на `localhost:9000` (логин/пароль: admin/admin123).
-- **ChromaDB** запускается на `localhost:8000`.
-- Все параметры можно изменить в файле `load_images_ui_v2.py`.
+- **Qdrant** запускается на `localhost:6333`.
+- Все параметры можно изменить в файле `load_images_ui_tkinker_qdrant_v3.py`.
 
 ---
 
@@ -95,7 +91,7 @@ python load_images_ui_tkinker_v2.py
 ## Примечания
 
 - Для работы с CUDA требуется совместимая видеокарта и драйверы.
-- Папки `chroma-data` и `minio-data` создаются автоматически для хранения данных.
+- Папки `qdrant_storage` и `minio-data` создаются автоматически для хранения данных.
 
 ---
 

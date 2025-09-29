@@ -1,23 +1,25 @@
+version: "3.9"
+
 services:
-  chromadb:
-    image: ghcr.io/chroma-core/chroma:latest
-    container_name: chromadb
+  qdrant:
+    image: qdrant/qdrant:v1.12.1
+    container_name: qdrant
+    restart: unless-stopped
     ports:
-      - "8000:8000"
+      - "6333:6333"
     volumes:
-      - ./chroma-data:/data
-    environment:
-      - IS_PERSISTENT=TRUE
+      - ./qdrant_storage:/qdrant/storage
 
   minio:
     image: minio/minio:latest
     container_name: minio
+    restart: unless-stopped
+    environment:
+      MINIO_ROOT_USER: minioadmin
+      MINIO_ROOT_PASSWORD: minioadmin
     command: server /data --console-address ":9001"
     ports:
-      - "9000:9000"   # S3 API
-      - "9001:9001"   # Web UI
-    environment:
-      - MINIO_ROOT_USER=admin
-      - MINIO_ROOT_PASSWORD=admin123
+      - "9000:9000"
+      - "9001:9001"
     volumes:
-      - ./minio-data:/data
+      - ./minio_data:/data

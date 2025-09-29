@@ -2,13 +2,13 @@
 
 
 a = Analysis(
-    ['load_images_ui_tkinker_v2.py'],
+    ['load_images_ui_tkinker_qdrant_v3.py'],
     pathex=['F:/MyProjects/ImageManager/venv/Lib/site-packages'],
     binaries=[],
     datas=[
         ('F:/MyProjects/ImageManager/venv/Lib/site-packages/clip/bpe_simple_vocab_16e6.txt.gz', 'clip')
     ],
-    hiddenimports=['chromadb.telemetry.product.posthog', 'chromadb.api.fastapi', 'posthog'],
+    hiddenimports=[],
     hookspath=[],
     hooksconfig={},
     runtime_hooks=[],
@@ -24,7 +24,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='load_images_ui_tkinker_v2',
+    name='load_images_ui_tkinker_qdrant_v3',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,

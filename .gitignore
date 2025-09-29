@@ -10,8 +10,13 @@ venv/
 # Игнорировать все файлы внутри chroma-data, но оставить саму папку
 chroma-data/*
 
+# Игнорировать все файлы внутри qdrant_storage, но оставить саму папку
+qdrant_storage/*
+
 # Игнорировать все файлы внутри minio-data, но оставить саму папку
 minio-data/*
+minio_data/*
+
 pyinstaller load_images_ui_tkinker_v2.spec
 
 start.bat
