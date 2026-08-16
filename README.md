@@ -45,6 +45,7 @@ source venv/bin/activate
 
 ```bash
 pip install --upgrade pip
+pip install git+https://github.com/openai/CLIP.git
 pip install -r requirements.txt
 ```
 
