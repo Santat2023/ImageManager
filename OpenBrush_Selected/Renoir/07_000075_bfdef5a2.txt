@@ -1,0 +1,35 @@
+id: 000075_bfdef5a2
+artist: Pierre Auguste Renoir
+style: Impressionism
+genre: portrait
+tags: oil_painting, impressionism, portrait, bust_portrait, three_quarter_view, man, bearded_man, wear_formal, clothing, collar, hand_on_head, 19th_century_art
+subject: A man with light brown curly hair and a well-groomed beard with reddish tones. He has a fair complexion and blue eyes. He wears a dark formal suit with a white collar and a dark blue bow tie.
+action: Resting his right hand on his temple, supporting his chin, with a pensive expression.
+setting: A softly blurred natural background of green and brown hues, suggesting an outdoor setting with foliage.
+mood: Contemplative, introspective, and thoughtful.
+style_description: Oil on canvas rendered in the impressionist style, characterized by visible brushstrokes, rich color harmony, and a focus on light and atmosphere over sharp detail.
+lighting: Soft and diffuse, illuminating the right side of the face more brightly than the left, creating gentle shadows.
+color: Warm and earthy tones dominate, with a vibrant blue ribbon providing a striking focal point.
+composition: A bust portrait framed at a three-quarter angle from the subject's left, creating an intimate and focused composition that emphasizes the subject's thoughtful character.
+caption_full: **TAGS:** oil_painting, impressionism, portrait, bust_portrait, three_quarter_view, man, bearded_man, wear_formal, clothing, collar, hand_on_head, 19th_century_art
+
+**SUBJECT:** A man with light brown curly hair and a well-groomed beard with reddish tones. He has a fair complexion and blue eyes. He wears a dark formal suit with a white collar and a dark blue bow tie.
+
+**ACTION:** Resting his right hand on his temple, supporting his chin, with a pensive expression.
+
+**SETTING:** A softly blurred natural background of green and brown hues, suggesting an outdoor setting with foliage.
+
+**MOOD:** Contemplative, introspective, and thoughtful.
+
+**STYLE:** Oil on canvas rendered in the impressionist style, characterized by visible brushstrokes, rich color harmony, and a focus on light and atmosphere over sharp detail.
+
+**LIGHTING:** Soft and diffuse, illuminating the right side of the face more brightly than the left, creating gentle shadows.
+
+**COLOR:** Warm and earthy tones dominate, with a vibrant blue ribbon providing a striking focal point.
+
+**COMPOSITION:** A bust portrait framed at a three-quarter angle from the subject's left, creating an intimate and focused composition that emphasizes the subject's thoughtful character.
+source_file: 000075_pierre-auguste-renoir_Impressionism_portrait.png
+
+Additional metadata:
+height: 1682
+width: 1382

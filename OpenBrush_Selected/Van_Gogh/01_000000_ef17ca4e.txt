@@ -1,0 +1,27 @@
+id: 000000_ef17ca4e
+artist: Vincent Van Gogh
+style: Realism
+genre: landscape
+tags: realism, landscape, dark, texture, line, autumn, water, horizon, sky, outdoor, serene
+subject: A landscape with bare trees and a body of still water under a textured sky.
+action: Three birds fly across the sky above the trees.
+setting: An outdoor landscape featuring a still body of water reflecting the sky, with a distant horizon line.
+mood: Serene, contemplative, and slightly melancholic.
+style_description: Realistic with visible brushstrokes and textured surface, emphasizing expressive lines.
+lighting: Soft backlighting from the sky creates a calm, diffused illumination with subtle shadows.
+color: Warm brown palette with strong contrast between dark tree forms and lighter sky.
+composition: Wide landscape view with a low horizon line, focusing on the sky and silhouetted trees, creating depth and balance.
+caption_full: **TAGS:** realism, landscape, dark, texture, line, autumn, water, horizon, sky, outdoor, serene
+**SUBJECT:** A landscape with bare trees and a body of still water under a textured sky.
+**ACTION:** Three birds fly across the sky above the trees.
+**SETTING:** An outdoor landscape featuring a still body of water reflecting the sky, with a distant horizon line.
+**MOOD:** Serene, contemplative, and slightly melancholic.
+**STYLE:** Realistic with visible brushstrokes and textured surface, emphasizing expressive lines.
+**LIGHTING:** Soft backlighting from the sky creates a calm, diffused illumination with subtle shadows.
+**COLOR:** Warm brown palette with strong contrast between dark tree forms and lighter sky.
+**COMPOSITION:** Wide landscape view with a low horizon line, focusing on the sky and silhouetted trees, creating depth and balance.
+source_file: 000000_vincent-van-gogh_Realism_landscape.png
+
+Additional metadata:
+height: 597
+width: 750

@@ -1,0 +1,35 @@
+id: 000089_5a03864f
+artist: Pierre Auguste Renoir
+style: Impressionism
+genre: nude painting
+tags: oil_painting, impressionism, nude, figure, pose, warm_color, blending, brushwork, skin_tones, pink_hue, hair_red, full_view
+subject: A nude woman with reddish-brown hair
+action: Reclining on her side with her head resting on one arm, her other arm bent near her face
+setting: Indistinct vertical forms in warm tones suggesting a draped curtain or tapestry
+mood: Intimate, sensual, and contemplative
+style_description: Impressionist oil painting with soft blending and visible brushstrokes
+lighting: Soft, directional light from the left and front, creating gentle highlights and shadows on the body
+color: Warm palette dominated by ochre, pink, yellow, and earth tones with rich skin tones
+composition: Slightly elevated perspective focusing on the upper body and face, with the figure draped across the canvas to emphasize form and sensuality
+caption_full: **TAGS:** oil_painting, impressionism, nude, figure, pose, warm_color, blending, brushwork, skin_tones, pink_hue, hair_red, full_view
+
+**SUBJECT:** A nude woman with reddish-brown hair
+
+**ACTION:** Reclining on her side with her head resting on one arm, her other arm bent near her face
+
+**SETTING:** Indistinct vertical forms in warm tones suggesting a draped curtain or tapestry
+
+**MOOD:** Intimate, sensual, and contemplative
+
+**STYLE:** Impressionist oil painting with soft blending and visible brushstrokes
+
+**LIGHTING:** Soft, directional light from the left and front, creating gentle highlights and shadows on the body
+
+**COLOR:** Warm palette dominated by ochre, pink, yellow, and earth tones with rich skin tones
+
+**COMPOSITION:** Slightly elevated perspective focusing on the upper body and face, with the figure draped across the canvas to emphasize form and sensuality
+source_file: 000089_pierre-auguste-renoir_Impressionism_nude_painting.png
+
+Additional metadata:
+height: 1382
+width: 1776

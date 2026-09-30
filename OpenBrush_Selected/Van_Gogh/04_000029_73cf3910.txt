@@ -1,0 +1,35 @@
+id: 000029_73cf3910
+artist: Vincent Van Gogh
+style: Realism
+genre: nude painting
+tags: nude, figure, seated, drawing, sketch, body_study, figure_study, realism, line, lighting, chiaroscuro, man, view_profile, gesture
+subject: A muscular male figure with defined anatomy, including broad shoulders, a strong back, and well-developed limbs. The figure has short dark hair tied back and a prominent beard, seen in profile.
+action: Sitting on a wooden stool with legs crossed and head tilted upward, gazing to the left. The body is turned in a three-quarter view, with arms resting on the lap and a contemplative posture.
+setting: A plain off-white background with no additional elements, creating a stark, focused environment.
+mood: Contemplative and introspective, with a sense of quiet concentration and physical presence.
+style_description: Charcoal or soft pencil drawing with expressive lines and shading, emphasizing anatomical structure and form in a realistic, detailed manner.
+lighting: Soft directional light from the upper left, creating subtle shadows that define musculature and volume through chiaroscuro.
+color: Monochromatic palette with rich darks and soft grays against a light background, emphasizing contrast and tonal depth.
+composition: Balanced three-quarter profile view with strong vertical lines from the figure and stool, creating a stable and focused composition centered on the subject's form.
+caption_full: **TAGS:** nude, figure, seated, drawing, sketch, body_study, figure_study, realism, line, lighting, chiaroscuro, man, view_profile, gesture
+
+**SUBJECT:** A muscular male figure with defined anatomy, including broad shoulders, a strong back, and well-developed limbs. The figure has short dark hair tied back and a prominent beard, seen in profile.
+
+**ACTION:** Sitting on a wooden stool with legs crossed and head tilted upward, gazing to the left. The body is turned in a three-quarter view, with arms resting on the lap and a contemplative posture.
+
+**SETTING:** A plain off-white background with no additional elements, creating a stark, focused environment.
+
+**MOOD:** Contemplative and introspective, with a sense of quiet concentration and physical presence.
+
+**STYLE:** Charcoal or soft pencil drawing with expressive lines and shading, emphasizing anatomical structure and form in a realistic, detailed manner.
+
+**LIGHTING:** Soft directional light from the upper left, creating subtle shadows that define musculature and volume through chiaroscuro.
+
+**COLOR:** Monochromatic palette with rich darks and soft grays against a light background, emphasizing contrast and tonal depth.
+
+**COMPOSITION:** Balanced three-quarter profile view with strong vertical lines from the figure and stool, creating a stable and focused composition centered on the subject's form.
+source_file: 000029_vincent-van-gogh_Realism_nude_painting.png
+
+Additional metadata:
+height: 1832
+width: 1382

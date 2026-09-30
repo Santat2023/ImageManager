@@ -1,0 +1,35 @@
+id: 000006_e79b6975
+artist: Vincent Van Gogh
+style: Realism
+genre: Unknown Genre
+tags: oil_painting, post_impressionism, still_life, dark_background, color, brushwork, thick_paint, impasto, texture, vase, nature, natural_light, warm_light, red, earth_tones, painterly, dynamic_composition, colorful, detailed, emotion, depth
+subject: A dense bouquet of flowers in a dark vase, featuring roses, daisies, and other blossoms in shades of red, pink, white, yellow, and green.
+action: Arranged in a full, overflowing composition with some blooms slightly wilting.
+setting: Set against a deep red background with the vase resting on a flat surface.
+mood: Romantic and emotionally resonant, evoking a sense of transient beauty and artistic depth.
+style_description: Oil painting with thick, expressive brushstrokes and impasto technique, emphasizing texture and color over precise detail.
+lighting: Natural and soft, casting subtle shadows within the petals and leaves, with a warm glow that enhances depth and dimension.
+color: Rich and warm palette dominated by deep reds, vibrant pinks, creamy whites, and earthy greens, creating strong contrast and visual intensity.
+composition: Viewed from a slightly elevated angle, with the bouquet as the central focal point, creating a dynamic and balanced arrangement that draws the eye into the dense floral forms.
+caption_full: **TAGS:** oil_painting, post_impressionism, still_life, dark_background, color, brushwork, thick_paint, impasto, texture, vase, nature, natural_light, warm_light, red, earth_tones, painterly, dynamic_composition, colorful, detailed, emotion, depth
+
+**SUBJECT:** A dense bouquet of flowers in a dark vase, featuring roses, daisies, and other blossoms in shades of red, pink, white, yellow, and green.
+
+**ACTION:** Arranged in a full, overflowing composition with some blooms slightly wilting.
+
+**SETTING:** Set against a deep red background with the vase resting on a flat surface.
+
+**MOOD:** Romantic and emotionally resonant, evoking a sense of transient beauty and artistic depth.
+
+**STYLE:** Oil painting with thick, expressive brushstrokes and impasto technique, emphasizing texture and color over precise detail.
+
+**LIGHTING:** Natural and soft, casting subtle shadows within the petals and leaves, with a warm glow that enhances depth and dimension.
+
+**COLOR:** Rich and warm palette dominated by deep reds, vibrant pinks, creamy whites, and earthy greens, creating strong contrast and visual intensity.
+
+**COMPOSITION:** Viewed from a slightly elevated angle, with the bouquet as the central focal point, creating a dynamic and balanced arrangement that draws the eye into the dense floral forms.
+source_file: 000006_vincent-van-gogh_Realism_Unknown Genre.png
+
+Additional metadata:
+height: 1896
+width: 1382

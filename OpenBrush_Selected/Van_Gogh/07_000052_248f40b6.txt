@@ -1,0 +1,35 @@
+id: 000052_248f40b6
+artist: Vincent Van Gogh
+style: Realism
+genre: sketch and study
+tags: sketch, study, drawing, ink_drawing, watercolor, realism, genre_scene, rural_scene, figure_study, figure, outdoor, daytime, perspective, composition, gesture, movement, naturalism, man, woman, figures, walking, standing, seated, field, sky, tree, architecture, wear, boots, hat, clothing, bag, path, ground, shadow, lighting, dark, texture, line, details, brushwork, emotional, narrative, nature, setting, style, quality, emotion, life, detailed, person, trade, family, community, people_working, outdoor_scene, natural_light, daylight, contour, depth, vitality, coloring
+subject: A diverse group of people including men, women, and a child, depicted as ordinary individuals in simple clothing such as coats, hats, and boots. The figures are shown in a rural marketplace setting with a covered stall.
+action: People are actively engaged in work; some stand, others bend or sit while processing produce. Gestures suggest labor, interaction, and collective effort.
+setting: An outdoor rural marketplace with a covered stall, wooden structures, tables, and a ground surface of earth or gravel.
+mood: Honest, contemplative, and grounded, evoking a sense of everyday human connection and the dignity of labor.
+style_description: A sketch study rendered in ink and watercolor, characterized by expressive lines, visible brushstrokes, and a simple, direct representation.
+lighting: Natural daylight from above, creating strong contrast between light and shadow, with directional illumination highlighting figures and forms.
+color: Muted browns and greys with subtle highlights, forming a naturalistic and subdued palette.
+composition: Viewed from a slightly elevated perspective, the scene includes foreground and background elements, guiding the viewer's gaze across the narrative. The arrangement emphasizes group dynamics and spatial depth, with balanced composition and a focus on active engagement.
+caption_full: **TAGS:** sketch, study, drawing, ink_drawing, watercolor, realism, genre_scene, rural_scene, figure_study, figure, outdoor, daytime, perspective, composition, gesture, movement, naturalism, man, woman, figures, walking, standing, seated, field, sky, tree, architecture, wear, boots, hat, clothing, bag, path, ground, shadow, lighting, dark, texture, line, details, brushwork, emotional, narrative, nature, setting, style, quality, emotion, life, detailed, person, trade, family, community, people_working, outdoor_scene, natural_light, daylight, contour, depth, vitality, coloring
+
+**SUBJECT:** A diverse group of people including men, women, and a child, depicted as ordinary individuals in simple clothing such as coats, hats, and boots. The figures are shown in a rural marketplace setting with a covered stall.
+
+**ACTION:** People are actively engaged in work; some stand, others bend or sit while processing produce. Gestures suggest labor, interaction, and collective effort.
+
+**SETTING:** An outdoor rural marketplace with a covered stall, wooden structures, tables, and a ground surface of earth or gravel.
+
+**MOOD:** Honest, contemplative, and grounded, evoking a sense of everyday human connection and the dignity of labor.
+
+**STYLE:** A sketch study rendered in ink and watercolor, characterized by expressive lines, visible brushstrokes, and a simple, direct representation.
+
+**LIGHTING:** Natural daylight from above, creating strong contrast between light and shadow, with directional illumination highlighting figures and forms.
+
+**COLOR:** Muted browns and greys with subtle highlights, forming a naturalistic and subdued palette.
+
+**COMPOSITION:** Viewed from a slightly elevated perspective, the scene includes foreground and background elements, guiding the viewer's gaze across the narrative. The arrangement emphasizes group dynamics and spatial depth, with balanced composition and a focus on active engagement.
+source_file: 000052_vincent-van-gogh_Realism_sketch_and_study.png
+
+Additional metadata:
+height: 1382
+width: 2678

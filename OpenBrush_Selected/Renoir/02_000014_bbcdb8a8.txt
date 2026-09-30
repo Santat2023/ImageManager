@@ -1,0 +1,35 @@
+id: 000014_bbcdb8a8
+artist: Pierre Auguste Renoir
+style: Impressionism
+genre: portrait
+tags: oil_painting, impressionism, portrait, woman, figure, full_view, brushwork, color, warm_color, features, cheeks, texture, hands, white_dress, blue_shade, lighting_golden, gaze_direct, 19th_century, french_art, interior
+subject: A young woman with fair skin and a white dress with blue shading. She has dark brown hair styled in an updo and wears a red headband. A tall grey bird, resembling a crane, is partially visible in the background.
+action: Seated with hands resting in her lap, she gazes directly at the viewer with a calm, neutral expression.
+setting: An indistinct indoor space with a bright yellow background, suggesting a domestic interior. A tall grey bird stands out of focus in the background to the right.
+mood: Calm, introspective, and serene, with a sense of quiet contemplation.
+style_description: Impressionist oil painting with loose, visible brushstrokes and a painterly texture that emphasizes light and atmosphere over precise detail.
+lighting: Bright, warm light coming from the front-left, casting soft highlights on the subject's face and dress and creating a luminous glow.
+color: Dominated by a warm palette of golden yellows and oranges in the background, contrasting with the cool whites and pale blues of the woman's dress.
+composition: A full-figure portrait with a central, frontal composition. The woman is the clear focal point, captured in a three-quarter view with her head turned slightly toward the viewer. The use of depth and perspective draws the eye to the subject through strong color harmony and luminosity.
+caption_full: **TAGS:** oil_painting, impressionism, portrait, woman, figure, full_view, brushwork, color, warm_color, features, cheeks, texture, hands, white_dress, blue_shade, lighting_golden, gaze_direct, 19th_century, french_art, interior
+
+**SUBJECT:** A young woman with fair skin and a white dress with blue shading. She has dark brown hair styled in an updo and wears a red headband. A tall grey bird, resembling a crane, is partially visible in the background.
+
+**ACTION:** Seated with hands resting in her lap, she gazes directly at the viewer with a calm, neutral expression.
+
+**SETTING:** An indistinct indoor space with a bright yellow background, suggesting a domestic interior. A tall grey bird stands out of focus in the background to the right.
+
+**MOOD:** Calm, introspective, and serene, with a sense of quiet contemplation.
+
+**STYLE:** Impressionist oil painting with loose, visible brushstrokes and a painterly texture that emphasizes light and atmosphere over precise detail.
+
+**LIGHTING:** Bright, warm light coming from the front-left, casting soft highlights on the subject's face and dress and creating a luminous glow.
+
+**COLOR:** Dominated by a warm palette of golden yellows and oranges in the background, contrasting with the cool whites and pale blues of the woman's dress.
+
+**COMPOSITION:** A full-figure portrait with a central, frontal composition. The woman is the clear focal point, captured in a three-quarter view with her head turned slightly toward the viewer. The use of depth and perspective draws the eye to the subject through strong color harmony and luminosity.
+source_file: 000014_pierre-auguste-renoir_Impressionism_portrait.png
+
+Additional metadata:
+height: 1731
+width: 1382

@@ -1,0 +1,35 @@
+id: 000355_6f4b0917
+artist: Rembrandt
+style: Baroque
+genre: portrait
+tags: sketch, ink_wash, portrait, bust_portrait, three_quarter_view, period_17th_century, illustration, monochrome
+subject: A man with fair skin, large eyes, thick eyebrows, a long nose, drooping chin, wide mouth, broad cheeks, and large round ears. He wears a soft cap and an outer garment. His eyes are differently colored—one dark brown, the other beige—and he has no beard or mustache.
+action: Leaning forward with his arms crossed and hands supporting his head, gazing intently toward the viewer.
+setting: A plain, light beige background with soft shadows behind the figure and along the base of his body.
+mood: Intense, contemplative, and slightly unsettling due to the exaggerated facial features and direct gaze.
+style_description: Loose sketch style with bold, expressive lines and minimal detail, rendered in ink wash technique emphasizing form over texture.
+lighting: Soft, diffused light from above, casting subtle shadows beneath the chin and along the edges of the clothing.
+color: Earth tones dominated by browns, beige, and black, with contrasting greyish-green highlights on the face.
+composition: Central focus on the head and upper torso, framed as a bust portrait with a slightly off-center perspective that draws attention to the expressive face.
+caption_full: **TAGS:** sketch, ink_wash, portrait, bust_portrait, three_quarter_view, period_17th_century, illustration, monochrome
+
+**SUBJECT:** A man with fair skin, large eyes, thick eyebrows, a long nose, drooping chin, wide mouth, broad cheeks, and large round ears. He wears a soft cap and an outer garment. His eyes are differently colored—one dark brown, the other beige—and he has no beard or mustache.
+
+**ACTION:** Leaning forward with his arms crossed and hands supporting his head, gazing intently toward the viewer.
+
+**SETTING:** A plain, light beige background with soft shadows behind the figure and along the base of his body.
+
+**MOOD:** Intense, contemplative, and slightly unsettling due to the exaggerated facial features and direct gaze.
+
+**STYLE:** Loose sketch style with bold, expressive lines and minimal detail, rendered in ink wash technique emphasizing form over texture.
+
+**LIGHTING:** Soft, diffused light from above, casting subtle shadows beneath the chin and along the edges of the clothing.
+
+**COLOR:** Earth tones dominated by browns, beige, and black, with contrasting greyish-green highlights on the face.
+
+**COMPOSITION:** Central focus on the head and upper torso, framed as a bust portrait with a slightly off-center perspective that draws attention to the expressive face.
+source_file: 000355_rembrandt_Baroque_portrait.png
+
+Additional metadata:
+height: 1382
+width: 1694

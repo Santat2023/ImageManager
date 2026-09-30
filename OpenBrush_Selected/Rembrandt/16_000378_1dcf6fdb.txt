@@ -1,0 +1,35 @@
+id: 000378_1dcf6fdb
+artist: Rembrandt
+style: Baroque
+genre: Unknown Genre
+tags: rembrandt, baroque, etching, portrait, bust_portrait, figure, bearded_man, wear, collar_high, hair, formal_attire, monochrome, line, chiaroscuro, smooth_shading, light, gaze_direct, signature, renaissance
+subject: A man with long, curly hair and a full beard, wearing an ornate dark hat with a feather plume and a richly decorated cloak with fur trim and a high collar.
+action: Gazing directly at the viewer with a calm and pensive expression, his hands clasped in front of his chest.
+setting: A plain, light-colored background with no discernible objects or scenery.
+mood: Contemplative, serious, and introspective.
+style_description: Etching, characterized by fine lines and textured shading to create depth and detail.
+lighting: Soft, directional light from the right, creating subtle shadows and highlighting facial features and textures.
+color: Monochrome, with black ink on cream-colored paper, creating a high-contrast, tonal range.
+composition: A bust portrait framed in a three-quarter profile, focusing on the man's head, shoulders, and upper chest, with a direct gaze that engages the viewer.
+caption_full: **TAGS:** rembrandt, baroque, etching, portrait, bust_portrait, figure, bearded_man, wear, collar_high, hair, formal_attire, monochrome, line, chiaroscuro, smooth_shading, light, gaze_direct, signature, renaissance
+
+**SUBJECT:** A man with long, curly hair and a full beard, wearing an ornate dark hat with a feather plume and a richly decorated cloak with fur trim and a high collar.
+
+**ACTION:** Gazing directly at the viewer with a calm and pensive expression, his hands clasped in front of his chest.
+
+**SETTING:** A plain, light-colored background with no discernible objects or scenery.
+
+**MOOD:** Contemplative, serious, and introspective.
+
+**STYLE:** Etching, characterized by fine lines and textured shading to create depth and detail.
+
+**LIGHTING:** Soft, directional light from the right, creating subtle shadows and highlighting facial features and textures.
+
+**COLOR:** Monochrome, with black ink on cream-colored paper, creating a high-contrast, tonal range.
+
+**COMPOSITION:** A bust portrait framed in a three-quarter profile, focusing on the man's head, shoulders, and upper chest, with a direct gaze that engages the viewer.
+source_file: 000378_rembrandt_Baroque_Unknown Genre.png
+
+Additional metadata:
+height: 1753
+width: 1382

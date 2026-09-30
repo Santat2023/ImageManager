@@ -1,0 +1,35 @@
+id: 000265_4260ffa6
+artist: Pierre Auguste Renoir
+style: Impressionism
+genre: landscape
+tags: oil_painting, impressionism, landscape, tree, river, figure, gender_female, foliage, natural_light, outdoor, plein_air, brushwork, color, light, focus, rural, full_view, three_quarter_view
+subject: Two women, a dark-dressed figure and one in a reddish-orange dress, seated at the water's edge.
+action: Two women are seated by the riverbank; one turns slightly away while the other extends an arm toward the water.
+setting: A sun-dappled forest path beside a calm river, flanked by dense trees and foliage under a partly cloudy sky.
+mood: Serene, tranquil, and contemplative.
+style_description: Impressionist with visible, textured brushstrokes and a luminous, blended oil-on-canvas finish.
+lighting: Natural daylight creates soft highlights and gentle shadows, with dappled light filtering through the trees.
+color: Vibrant yellows, greens, ochres, and soft blues, with warm, inviting tones and subtle contrasts.
+composition: Three-quarter view from the side, with figures slightly off-center to create depth and guide the eye into the landscape.
+caption_full: **TAGS:** oil_painting, impressionism, landscape, tree, river, figure, gender_female, foliage, natural_light, outdoor, plein_air, brushwork, color, light, focus, rural, full_view, three_quarter_view
+
+**SUBJECT:** Two women, a dark-dressed figure and one in a reddish-orange dress, seated at the water's edge.
+
+**ACTION:** Two women are seated by the riverbank; one turns slightly away while the other extends an arm toward the water.
+
+**SETTING:** A sun-dappled forest path beside a calm river, flanked by dense trees and foliage under a partly cloudy sky.
+
+**MOOD:** Serene, tranquil, and contemplative.
+
+**STYLE:** Impressionist with visible, textured brushstrokes and a luminous, blended oil-on-canvas finish.
+
+**LIGHTING:** Natural daylight creates soft highlights and gentle shadows, with dappled light filtering through the trees.
+
+**COLOR:** Vibrant yellows, greens, ochres, and soft blues, with warm, inviting tones and subtle contrasts.
+
+**COMPOSITION:** Three-quarter view from the side, with figures slightly off-center to create depth and guide the eye into the landscape.
+source_file: 000265_pierre-auguste-renoir_Impressionism_landscape.png
+
+Additional metadata:
+height: 1382
+width: 1752

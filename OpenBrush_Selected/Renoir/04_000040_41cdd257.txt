@@ -1,0 +1,35 @@
+id: 000040_41cdd257
+artist: Pierre Auguste Renoir
+style: Impressionism
+genre: still life
+tags: still_life, oil_painting, impressionism, floral_arrangement, vase, painting, interior_scene, warm_color, light, brushwork, color, interior, 19th_century_art, french_art
+subject: A still life arrangement with a flower bouquet, an ornate vase, a decorative fan, dried grasses, vintage books, and a framed painting.
+action: Objects are arranged on a surface, with a bouquet resting beside a vase and books.
+setting: An indoor domestic interior, likely a study or drawing room, with a textured wooden table and a plain warm-toned wall.
+mood: Cozy, contemplative, and nostalgic.
+style_description: Oil painting in the Impressionist style, characterized by visible brushstrokes and a focus on light and color.
+lighting: Warm and soft, originating from above and slightly to the left, casting gentle shadows.
+color: Rich earth tones—ochre, brown, and warm yellows—dominate, accented by vibrant reds and yellows in the bouquet and fan.
+composition: Framed from a slightly elevated three-quarter view, with the bouquet as the primary focal point. Objects are arranged to create depth, receding into a warm brown background, with the framed painting adding narrative context.
+caption_full: **TAGS:** still_life, oil_painting, impressionism, floral_arrangement, vase, painting, interior_scene, warm_color, light, brushwork, color, interior, 19th_century_art, french_art
+
+**SUBJECT:** A still life arrangement with a flower bouquet, an ornate vase, a decorative fan, dried grasses, vintage books, and a framed painting.
+
+**ACTION:** Objects are arranged on a surface, with a bouquet resting beside a vase and books.
+
+**SETTING:** An indoor domestic interior, likely a study or drawing room, with a textured wooden table and a plain warm-toned wall.
+
+**MOOD:** Cozy, contemplative, and nostalgic.
+
+**STYLE:** Oil painting in the Impressionist style, characterized by visible brushstrokes and a focus on light and color.
+
+**LIGHTING:** Warm and soft, originating from above and slightly to the left, casting gentle shadows.
+
+**COLOR:** Rich earth tones—ochre, brown, and warm yellows—dominate, accented by vibrant reds and yellows in the bouquet and fan.
+
+**COMPOSITION:** Framed from a slightly elevated three-quarter view, with the bouquet as the primary focal point. Objects are arranged to create depth, receding into a warm brown background, with the framed painting adding narrative context.
+source_file: 000040_pierre-auguste-renoir_Impressionism_still_life.png
+
+Additional metadata:
+height: 1700
+width: 1382

@@ -1,0 +1,35 @@
+id: 000309_b582d75b
+artist: Pierre Auguste Renoir
+style: Impressionism
+genre: genre painting
+tags: oil_painting, impressionism, genre_scene, portrait, full_view, interior, woman, dress_red, reading, detailed, light, blending, brushwork, warm_color, calm_expression, medium_brightness
+subject: A young girl with light brown hair styled in a bun, wearing a vibrant red dress with puffed sleeves and a white lace collar.
+action: Sitting and reading an open book, her head tilted down with focused attention.
+setting: An indoor setting with a dark green background that provides contrast to the subject, creating an intimate and focused atmosphere.
+mood: Quiet, contemplative, and serene.
+style_description: Painted in an impressionist style using oil on canvas. The work features characteristic visible brushstrokes that blend softly, creating a sense of movement and texture, particularly in the red dress. The rendering emphasizes light and color over fine detail, with a smooth blending of tones to give the portrait an airy feel.
+lighting: Soft and diffused, coming from the front-left, creating gentle highlights on her face, hair, and the book.
+color: Dominated by warm tones of red in the dress against cool green background hues, with subtle variations creating a balanced and harmonious composition.
+composition: A three-quarter perspective from slightly above, capturing the girl in a full figure as she sits. The focus is clearly on the girl and her quiet moment of reading, with the dark background enhancing the sense of depth and intimacy.
+caption_full: **TAGS:** oil_painting, impressionism, genre_scene, portrait, full_view, interior, woman, dress_red, reading, detailed, light, blending, brushwork, warm_color, calm_expression, medium_brightness
+
+**SUBJECT:** A young girl with light brown hair styled in a bun, wearing a vibrant red dress with puffed sleeves and a white lace collar.
+
+**ACTION:** Sitting and reading an open book, her head tilted down with focused attention.
+
+**SETTING:** An indoor setting with a dark green background that provides contrast to the subject, creating an intimate and focused atmosphere.
+
+**MOOD:** Quiet, contemplative, and serene.
+
+**STYLE:** Painted in an impressionist style using oil on canvas. The work features characteristic visible brushstrokes that blend softly, creating a sense of movement and texture, particularly in the red dress. The rendering emphasizes light and color over fine detail, with a smooth blending of tones to give the portrait an airy feel.
+
+**LIGHTING:** Soft and diffused, coming from the front-left, creating gentle highlights on her face, hair, and the book.
+
+**COLOR:** Dominated by warm tones of red in the dress against cool green background hues, with subtle variations creating a balanced and harmonious composition.
+
+**COMPOSITION:** A three-quarter perspective from slightly above, capturing the girl in a full figure as she sits. The focus is clearly on the girl and her quiet moment of reading, with the dark background enhancing the sense of depth and intimacy.
+source_file: 000309_pierre-auguste-renoir_Impressionism_genre_painting.png
+
+Additional metadata:
+height: 1682
+width: 1382

@@ -1,0 +1,35 @@
+id: 000253_ddee8fde
+artist: Pierre Auguste Renoir
+style: Impressionism
+genre: nude painting
+tags: oil_painting, impressionism, nude, figurative_art, plein_air, focus, light, figure, scene, natural_light, brushwork, person, french_art, serene, horizontal_composition
+subject: Two nude female figures
+action: One woman stands while holding a white cloth; the other kneels beside a body of water, interacting with the fabric
+setting: Outdoor natural setting beside a body of water, with green shrubs and trees in the background
+mood: Serene, contemplative, peaceful
+style_description: Impressionist oil painting with visible brushstrokes and atmospheric focus
+lighting: Natural light from above, creating soft highlights and dappled shadows on the figures and surroundings
+color: Warm golden yellows and purples, with a soft, harmonious palette blending skin tones, foliage, and water
+composition: Horizontal composition with a slightly elevated viewpoint, frontal and three-quarter views of the figures, subtle depth through overlapping forms and soft focus
+caption_full: **TAGS:** oil_painting, impressionism, nude, figurative_art, plein_air, focus, light, figure, scene, natural_light, brushwork, person, french_art, serene, horizontal_composition
+
+**SUBJECT:** Two nude female figures
+
+**ACTION:** One woman stands while holding a white cloth; the other kneels beside a body of water, interacting with the fabric
+
+**SETTING:** Outdoor natural setting beside a body of water, with green shrubs and trees in the background
+
+**MOOD:** Serene, contemplative, peaceful
+
+**STYLE:** Impressionist oil painting with visible brushstrokes and atmospheric focus
+
+**LIGHTING:** Natural light from above, creating soft highlights and dappled shadows on the figures and surroundings
+
+**COLOR:** Warm golden yellows and purples, with a soft, harmonious palette blending skin tones, foliage, and water
+
+**COMPOSITION:** Horizontal composition with a slightly elevated viewpoint, frontal and three-quarter views of the figures, subtle depth through overlapping forms and soft focus
+source_file: 000253_pierre-auguste-renoir_Impressionism_nude_painting.png
+
+Additional metadata:
+height: 1382
+width: 1714

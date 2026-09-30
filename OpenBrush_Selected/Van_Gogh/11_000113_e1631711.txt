@@ -1,0 +1,35 @@
+id: 000113_e1631711
+artist: Vincent Van Gogh
+style: Realism
+genre: Unknown Genre
+tags: still_life, oil_painting, post_impressionism, floral_arrangement, vase_flowers, vase, flower, paint_texture, brushwork, color, colorful, composition, natural_light
+subject: A dark, rounded ceramic vase holding a bouquet of flowers. The arrangement features clusters of white blossoms with delicate petals and green foliage, interspersed with bright red carnations.
+action: A bouquet of flowers arranged in a vase, with some petals and leaves scattered on the surface below.
+setting: A simple indoor still life scene with a light-colored surface and a solid blue background filled with textured, painted brushstrokes.
+mood: Vibrant and expressive, evoking a sense of dynamic natural beauty and artistic energy.
+style_description: Post-impressionist oil painting with expressive texture and bold, vibrant colors.
+lighting: Soft natural light illuminates the scene from the left, creating gentle highlights on the petals and subtle reflections on the vase.
+color: A rich and bold palette featuring deep reds, bright whites, and a dominant cool blue background, contrasted with the dark tones of the vase.
+composition: A vertically oriented composition with the vase and flowers as the central focus, presented from a slightly angled viewpoint that emphasizes depth and visual hierarchy.
+caption_full: **TAGS:** still_life, oil_painting, post_impressionism, floral_arrangement, vase_flowers, vase, flower, paint_texture, brushwork, color, colorful, composition, natural_light
+
+**SUBJECT:** A dark, rounded ceramic vase holding a bouquet of flowers. The arrangement features clusters of white blossoms with delicate petals and green foliage, interspersed with bright red carnations.
+
+**ACTION:** A bouquet of flowers arranged in a vase, with some petals and leaves scattered on the surface below.
+
+**SETTING:** A simple indoor still life scene with a light-colored surface and a solid blue background filled with textured, painted brushstrokes.
+
+**MOOD:** Vibrant and expressive, evoking a sense of dynamic natural beauty and artistic energy.
+
+**STYLE:** Post-impressionist oil painting with expressive texture and bold, vibrant colors.
+
+**LIGHTING:** Soft natural light illuminates the scene from the left, creating gentle highlights on the petals and subtle reflections on the vase.
+
+**COLOR:** A rich and bold palette featuring deep reds, bright whites, and a dominant cool blue background, contrasted with the dark tones of the vase.
+
+**COMPOSITION:** A vertically oriented composition with the vase and flowers as the central focus, presented from a slightly angled viewpoint that emphasizes depth and visual hierarchy.
+source_file: 000113_vincent-van-gogh_Realism_Unknown Genre.png
+
+Additional metadata:
+height: 2329
+width: 1382

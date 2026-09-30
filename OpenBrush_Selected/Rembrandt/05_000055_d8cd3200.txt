@@ -1,0 +1,35 @@
+id: 000055_d8cd3200
+artist: Rembrandt
+style: Baroque
+genre: portrait
+tags: oil_painting, baroque, portrait, bust_portrait, three_quarter_view, man, armor, breastplate, sash, hair, mustache, beard, skin, wear, chiaroscuro, dramatic_light, dark_background, light, calm_expression, blending
+subject: A man in a dark brown doublet and partial armor with a visible breastplate and ornate silver sash. He has long, dark curly hair, a thick mustache, and a beard, with a composed facial expression.
+action: Standing in a three-quarter pose, holding a long sword vertically beside his body with his right hand, his left arm resting at his side.
+setting: A simple, dark, neutral background that transitions to a warm brownish glow behind his head and shoulders, creating an intimate, focused environment.
+mood: Contemplative and dignified, evoking a sense of quiet authority and introspection.
+style_description: An oil painting with rich texture, smooth blending, and fine detail, capturing the softness of fabric, metallic reflections, and subtle skin tones.
+lighting: Dramatic chiaroscuro lighting with a strong source from above and slightly to the left, illuminating his face, right shoulder, and torso while casting deep shadows on the opposite side.
+color: Rich and warm earthy tones, dominated by browns, deep reds, and golden highlights, with accents of silver from the armor and sash.
+composition: A medium close-up, three-quarter view with balanced negative space. A strong diagonal formed by the sword draws the eye to his face, which serves as the focal point, creating a harmonious and dynamic structure.
+caption_full: **TAGS:** oil_painting, baroque, portrait, bust_portrait, three_quarter_view, man, armor, breastplate, sash, hair, mustache, beard, skin, wear, chiaroscuro, dramatic_light, dark_background, light, calm_expression, blending
+
+**SUBJECT:** A man in a dark brown doublet and partial armor with a visible breastplate and ornate silver sash. He has long, dark curly hair, a thick mustache, and a beard, with a composed facial expression.
+
+**ACTION:** Standing in a three-quarter pose, holding a long sword vertically beside his body with his right hand, his left arm resting at his side.
+
+**SETTING:** A simple, dark, neutral background that transitions to a warm brownish glow behind his head and shoulders, creating an intimate, focused environment.
+
+**MOOD:** Contemplative and dignified, evoking a sense of quiet authority and introspection.
+
+**STYLE:** An oil painting with rich texture, smooth blending, and fine detail, capturing the softness of fabric, metallic reflections, and subtle skin tones.
+
+**LIGHTING:** Dramatic chiaroscuro lighting with a strong source from above and slightly to the left, illuminating his face, right shoulder, and torso while casting deep shadows on the opposite side.
+
+**COLOR:** Rich and warm earthy tones, dominated by browns, deep reds, and golden highlights, with accents of silver from the armor and sash.
+
+**COMPOSITION:** A medium close-up, three-quarter view with balanced negative space. A strong diagonal formed by the sword draws the eye to his face, which serves as the focal point, creating a harmonious and dynamic structure.
+source_file: 000055_rembrandt_Baroque_portrait.png
+
+Additional metadata:
+height: 1675
+width: 1382

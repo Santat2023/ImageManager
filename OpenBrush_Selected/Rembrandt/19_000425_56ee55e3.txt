@@ -1,0 +1,35 @@
+id: 000425_56ee55e3
+artist: Rembrandt
+style: Baroque
+genre: religious painting
+tags: etching, ink_drawing, line, portrait, religious_scene, baroque, gender_male, old, bearded, cloaked_figure, standing, full_view, view_profile, three_quarter_view, natural_light, chiaroscuro, texture
+subject: An elderly man with a full beard and long hair, wearing a wide-brimmed hat and a heavy, textured cloak over a tunic.
+action: Standing upright and leaning forward, with his right hand resting on a doorway frame and his left arm bent near his chest.
+setting: An interior space with a doorway or large vertical element on the left, set against a blank, unadorned background.
+mood: Contemplative and solemn, with a sense of quiet anticipation or reverence.
+style_description: Etching or fine line drawing with expressive, energetic lines, using hatching to define form and texture.
+lighting: Dramatic and directional, coming from the right, creating strong contrasts and deep shadows on the left side of the figure and background.
+color: Monochromatic, with rich black ink lines against a light grey paper background.
+composition: Viewed from a three-quarter angle in profile, with the figure and vertical element as the central focus, emphasizing posture and gesture.
+caption_full: **TAGS:** etching, ink_drawing, line, portrait, religious_scene, baroque, gender_male, old, bearded, cloaked_figure, standing, full_view, view_profile, three_quarter_view, natural_light, chiaroscuro, texture
+
+**SUBJECT:** An elderly man with a full beard and long hair, wearing a wide-brimmed hat and a heavy, textured cloak over a tunic.
+
+**ACTION:** Standing upright and leaning forward, with his right hand resting on a doorway frame and his left arm bent near his chest.
+
+**SETTING:** An interior space with a doorway or large vertical element on the left, set against a blank, unadorned background.
+
+**MOOD:** Contemplative and solemn, with a sense of quiet anticipation or reverence.
+
+**STYLE:** Etching or fine line drawing with expressive, energetic lines, using hatching to define form and texture.
+
+**LIGHTING:** Dramatic and directional, coming from the right, creating strong contrasts and deep shadows on the left side of the figure and background.
+
+**COLOR:** Monochromatic, with rich black ink lines against a light grey paper background.
+
+**COMPOSITION:** Viewed from a three-quarter angle in profile, with the figure and vertical element as the central focus, emphasizing posture and gesture.
+source_file: 000425_rembrandt_Baroque_religious_painting.png
+
+Additional metadata:
+height: 1916
+width: 1382

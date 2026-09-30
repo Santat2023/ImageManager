@@ -1,0 +1,35 @@
+id: 000048_aa6feb79
+artist: Vincent Van Gogh
+style: Realism
+genre: sketch and study
+tags: sketch, drawing, realism, study, figure_study, full_view, woman, hooded_clothing, portrait, simple_composition, lighting, monochrome, line, shading, texture
+subject: A woman in a long, layered dress and a large hood that covers most of her head.
+action: Standing in profile, facing left, with her right arm bent across her chest and hands clasped together, holding a bundle.
+setting: A plain, undetailed background consisting of a simple ground and a vertical backdrop.
+mood: Somber, introspective, and melancholic.
+style_description: Charcoal or pencil sketch with expressive, varied lines and detailed shading to create texture and depth.
+lighting: Strong directional light from the left, creating deep shadows and high contrast on the figure's form.
+color: Monochromatic, with a range of gray and black tones from the drawing medium.
+composition: Full-figure view with a strong vertical element from the woman's posture, balanced and focused on the central figure.
+caption_full: **TAGS:** sketch, drawing, realism, study, figure_study, full_view, woman, hooded_clothing, portrait, simple_composition, lighting, monochrome, line, shading, texture
+
+**SUBJECT:** A woman in a long, layered dress and a large hood that covers most of her head.
+
+**ACTION:** Standing in profile, facing left, with her right arm bent across her chest and hands clasped together, holding a bundle.
+
+**SETTING:** A plain, undetailed background consisting of a simple ground and a vertical backdrop.
+
+**MOOD:** Somber, introspective, and melancholic.
+
+**STYLE:** Charcoal or pencil sketch with expressive, varied lines and detailed shading to create texture and depth.
+
+**LIGHTING:** Strong directional light from the left, creating deep shadows and high contrast on the figure's form.
+
+**COLOR:** Monochromatic, with a range of gray and black tones from the drawing medium.
+
+**COMPOSITION:** Full-figure view with a strong vertical element from the woman's posture, balanced and focused on the central figure.
+source_file: 000048_vincent-van-gogh_Realism_sketch_and_study.png
+
+Additional metadata:
+height: 2606
+width: 1382

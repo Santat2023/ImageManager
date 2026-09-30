@@ -1,0 +1,35 @@
+id: 000134_05619d4e
+artist: Pierre Auguste Renoir
+style: Impressionism
+genre: landscape
+tags: oil_painting, impressionism, landscape, seascape, coast, sea, sky, boat, brushwork, color, plein_air
+subject: A rocky shoreline, turbulent sea, and distant sailboats under a cloudy sky.
+action: Waves crash against the shore, and sailboats drift across the water.
+setting: A coastal landscape with a rocky foreground, a vast sea, and a cloudy sky.
+mood: Dynamic and atmospheric, evoking the raw energy of the sea.
+style_description: Impressionist oil painting with visible, expressive brushstrokes.
+lighting: Natural daylight with soft highlights on waves and rocks, diffused by clouds.
+color: Vibrant palette with warm oranges, reds, and purples in the foreground contrasting with cool blues, greens, and whites in the sea and sky.
+composition: Elevated viewpoint looking toward the horizon, with a textured foreground drawing focus and atmospheric perspective creating depth.
+caption_full: **TAGS:** oil_painting, impressionism, landscape, seascape, coast, sea, sky, boat, brushwork, color, plein_air
+
+**SUBJECT:** A rocky shoreline, turbulent sea, and distant sailboats under a cloudy sky.
+
+**ACTION:** Waves crash against the shore, and sailboats drift across the water.
+
+**SETTING:** A coastal landscape with a rocky foreground, a vast sea, and a cloudy sky.
+
+**MOOD:** Dynamic and atmospheric, evoking the raw energy of the sea.
+
+**STYLE:** Impressionist oil painting with visible, expressive brushstrokes.
+
+**LIGHTING:** Natural daylight with soft highlights on waves and rocks, diffused by clouds.
+
+**COLOR:** Vibrant palette with warm oranges, reds, and purples in the foreground contrasting with cool blues, greens, and whites in the sea and sky.
+
+**COMPOSITION:** Elevated viewpoint looking toward the horizon, with a textured foreground drawing focus and atmospheric perspective creating depth.
+source_file: 000134_pierre-auguste-renoir_Impressionism_landscape.png
+
+Additional metadata:
+height: 1382
+width: 1661

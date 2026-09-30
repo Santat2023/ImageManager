@@ -1,0 +1,35 @@
+id: 000030_2df6d448
+artist: Vincent Van Gogh
+style: Realism
+genre: portrait
+tags: portrait, realism, expressionism, charcoal, medium_shot, bust_portrait, three_quarter_view, faces, dark_hair, woman, calm_expression, soft_eyes, brushwork, warm_color, natural_light, rich_gradients, emotion, detailed, wear, minimalism, 19th_century
+subject: A woman with dark hair and a high-collared garment
+action: Gazing directly at the viewer with a calm expression
+setting: A plain, softly rendered background with no discernible objects or architectural elements
+mood: Introspective, serene, and contemplative
+style_description: Charcoal drawing with soft transitions and expressive brushstrokes, blending realism with emotional depth
+lighting: Soft, directional light from the upper left, creating gentle shadows on the right side of the face and neck
+color: Earthy browns, warm beiges, and soft shadows forming a natural and intimate palette
+composition: Medium shot focusing on the bust, composed from a slightly front-on angle that emphasizes the full face and direct gaze, with a strong sense of quiet observation
+caption_full: **TAGS:** portrait, realism, expressionism, charcoal, medium_shot, bust_portrait, three_quarter_view, faces, dark_hair, woman, calm_expression, soft_eyes, brushwork, warm_color, natural_light, rich_gradients, emotion, detailed, wear, minimalism, 19th_century
+
+**SUBJECT:** A woman with dark hair and a high-collared garment
+
+**ACTION:** Gazing directly at the viewer with a calm expression
+
+**SETTING:** A plain, softly rendered background with no discernible objects or architectural elements
+
+**MOOD:** Introspective, serene, and contemplative
+
+**STYLE:** Charcoal drawing with soft transitions and expressive brushstrokes, blending realism with emotional depth
+
+**LIGHTING:** Soft, directional light from the upper left, creating gentle shadows on the right side of the face and neck
+
+**COLOR:** Earthy browns, warm beiges, and soft shadows forming a natural and intimate palette
+
+**COMPOSITION:** Medium shot focusing on the bust, composed from a slightly front-on angle that emphasizes the full face and direct gaze, with a strong sense of quiet observation
+source_file: 000030_vincent-van-gogh_Realism_portrait.png
+
+Additional metadata:
+height: 1808
+width: 1382

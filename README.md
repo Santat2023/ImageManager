@@ -10,9 +10,12 @@
 
 ### Вариант 1. Готовая сборка (Portable)
 
-1. Скачайте архив из раздела [Releases v0.0.1](https://github.com/Santat2023/ImageManager/releases/tag/v0.0.1).
-2. Распакуйте его в удобную папку.
-3. Запустите приложение через файл **`start.bat`**.
+1. Скачайте архив [ImageManager_v0.1.zip](https://github.com/Santat2023/ImageManager/releases/tag/v0.0.2).
+2. Скачайте архив [MinioQadrantPortable.zip](https://github.com/Santat2023/ImageManager/releases/tag/v0.0.2).
+3. Скачайте архив [models.zip](https://github.com/Santat2023/ImageManager/releases/tag/v0.0.2).
+4. Распакуйте все удобную папку.
+5. Запустите Minio и Qdrant через файл **`start.bat`** в MinioQadrantPortable.
+6. Запустите ImageManager_V5.exe
 
 ---
 
@@ -60,7 +63,7 @@ docker-compose up -d
 ### 5. Запустите приложение
 
 ```bash
-python load_images_ui_tkinker_qdrant_v3.py
+python ImageManager/load_images_ui_tkinker_qdrant.py
 ```
 
 ---
@@ -77,7 +80,7 @@ python load_images_ui_tkinker_qdrant_v3.py
 
 - **MinIO** запускается на `localhost:9000` (логин/пароль: admin/admin123).
 - **Qdrant** запускается на `localhost:6333`.
-- Все параметры можно изменить в файле `load_images_ui_tkinker_qdrant_v3.py`.
+- Все параметры можно изменить в файле `load_images_ui_tkinker_qdrant.py`.
 
 ---
 

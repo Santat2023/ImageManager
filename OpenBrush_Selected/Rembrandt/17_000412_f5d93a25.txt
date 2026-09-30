@@ -1,0 +1,35 @@
+id: 000412_f5d93a25
+artist: Rembrandt
+style: Baroque
+genre: sketch and study
+tags: ink_drawing, portrait, gender_male, figure, hat, full_view, three_quarter_view, profile, interior_scene, line, brushwork, chiaroscuro, dramatic_light, monochrome
+subject: An elderly man with a white beard and glasses, wearing a soft-crowned hat and a loose-fitting garment.
+action: Sitting in profile on a wooden chair, with one arm resting on the armrest and the other hand on his lap, appearing relaxed and contemplative.
+setting: A simple, neutral interior with an undifferentiated white or light grey background.
+mood: Contemplative, introspective, and serene.
+style_description: Expressive ink drawing with bold, confident lines and soft strokes to define form and texture.
+lighting: Dramatic and directional, originating from the viewer's left, casting a strong shadow to the left and behind the figure.
+color: Monochrome, with a stark contrast between black ink and white paper.
+composition: Viewed from a three-quarter angle, emphasizing the man's profile, with the figure as the central focal point against a plain background.
+caption_full: **TAGS:** ink_drawing, portrait, gender_male, figure, hat, full_view, three_quarter_view, profile, interior_scene, line, brushwork, chiaroscuro, dramatic_light, monochrome
+
+**SUBJECT:** An elderly man with a white beard and glasses, wearing a soft-crowned hat and a loose-fitting garment.
+
+**ACTION:** Sitting in profile on a wooden chair, with one arm resting on the armrest and the other hand on his lap, appearing relaxed and contemplative.
+
+**SETTING:** A simple, neutral interior with an undifferentiated white or light grey background.
+
+**MOOD:** Contemplative, introspective, and serene.
+
+**STYLE:** Expressive ink drawing with bold, confident lines and soft strokes to define form and texture.
+
+**LIGHTING:** Dramatic and directional, originating from the viewer's left, casting a strong shadow to the left and behind the figure.
+
+**COLOR:** Monochrome, with a stark contrast between black ink and white paper.
+
+**COMPOSITION:** Viewed from a three-quarter angle, emphasizing the man's profile, with the figure as the central focal point against a plain background.
+source_file: 000412_rembrandt_Baroque_sketch_and_study.png
+
+Additional metadata:
+height: 1554
+width: 1382

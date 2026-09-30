@@ -1,0 +1,35 @@
+id: 000288_d227083e
+artist: Pierre Auguste Renoir
+style: Impressionism
+genre: portrait
+tags: oil_painting, impressionism, portrait, bust_portrait, three_quarter_view, woman, hair_red, complexion, light, jewelry, dress, pink_ribbon, brushwork, blending, warm_color, romantic
+subject: A young woman with fair skin and voluminous, auburn hair styled in an updo. She wears a high-necked gown with delicate ruffles and large bows in soft pink hues, and a simple gold necklace adorns her neck. She holds a small object, possibly a fan or letter, in her hands.
+action: She gazes thoughtfully away from the viewer, her head turned in profile, holding a small object in her hands.
+setting: An ambiguous indoor environment with a muted, softly textured background of warm brown and yellow tones.
+mood: Contemplative, serene, and romantic.
+style_description: Rendered in oil paint with visible, fluid brushstrokes that blend softly to capture light and form. The style is characteristic of Impressionism, focusing on delicate color variations, soft textures, and the play of light on the subject's skin and clothing rather than sharp outlines.
+lighting: Warm, diffused light from the front-left highlights her face and right shoulder, creating soft highlights and gentle shadows.
+color: Dominated by warm earth tones, soft pinks, and golden yellows, creating a harmonious and gentle atmosphere.
+composition: A three-quarter view portrait framed from the upper chest upwards. The subject is positioned slightly off-center, drawing the eye to her profile and thoughtful gaze, with a balanced and focused composition.
+caption_full: **TAGS:** oil_painting, impressionism, portrait, bust_portrait, three_quarter_view, woman, hair_red, complexion, light, jewelry, dress, pink_ribbon, brushwork, blending, warm_color, romantic
+
+**SUBJECT:** A young woman with fair skin and voluminous, auburn hair styled in an updo. She wears a high-necked gown with delicate ruffles and large bows in soft pink hues, and a simple gold necklace adorns her neck. She holds a small object, possibly a fan or letter, in her hands.
+
+**ACTION:** She gazes thoughtfully away from the viewer, her head turned in profile, holding a small object in her hands.
+
+**SETTING:** An ambiguous indoor environment with a muted, softly textured background of warm brown and yellow tones.
+
+**MOOD:** Contemplative, serene, and romantic.
+
+**STYLE:** Rendered in oil paint with visible, fluid brushstrokes that blend softly to capture light and form. The style is characteristic of Impressionism, focusing on delicate color variations, soft textures, and the play of light on the subject's skin and clothing rather than sharp outlines.
+
+**LIGHTING:** Warm, diffused light from the front-left highlights her face and right shoulder, creating soft highlights and gentle shadows.
+
+**COLOR:** Dominated by warm earth tones, soft pinks, and golden yellows, creating a harmonious and gentle atmosphere.
+
+**COMPOSITION:** A three-quarter view portrait framed from the upper chest upwards. The subject is positioned slightly off-center, drawing the eye to her profile and thoughtful gaze, with a balanced and focused composition.
+source_file: 000288_pierre-auguste-renoir_Impressionism_portrait.png
+
+Additional metadata:
+height: 1657
+width: 1382

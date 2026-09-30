@@ -1,0 +1,35 @@
+id: 000244_96db8093
+artist: Pierre Auguste Renoir
+style: Impressionism
+genre: portrait
+tags: oil_painting, impressionism, three_quarter_view, portrait, interior, brushwork, light, muted_color, warm_color
+subject: A man with dark hair and a beard, wearing a light-colored jacket and trousers
+action: Sitting on a wooden chair, holding a paintbrush and palette, focused on painting a canvas on an easel
+setting: An indoor studio with a simple wall, a framed painting hanging above the artist's shoulder, and a second canvas on an easel to his right
+mood: Focused, contemplative, and serene
+style_description: Oil on canvas with visible brushstrokes, Impressionist style emphasizing light and color over precise detail
+lighting: Soft, natural light from the left, casting gentle shadows on the artist's face and clothing
+color: Warm but muted palette dominated by earthy tones of brown, grey, and ochre
+composition: Three-quarter view of the seated man from a slightly elevated perspective, with the artist as the clear focal point and a narrative emphasis on the act of painting
+caption_full: **TAGS:** oil_painting, impressionism, three_quarter_view, portrait, interior, brushwork, light, muted_color, warm_color
+
+**SUBJECT:** A man with dark hair and a beard, wearing a light-colored jacket and trousers
+
+**ACTION:** Sitting on a wooden chair, holding a paintbrush and palette, focused on painting a canvas on an easel
+
+**SETTING:** An indoor studio with a simple wall, a framed painting hanging above the artist's shoulder, and a second canvas on an easel to his right
+
+**MOOD:** Focused, contemplative, and serene
+
+**STYLE:** Oil on canvas with visible brushstrokes, Impressionist style emphasizing light and color over precise detail
+
+**LIGHTING:** Soft, natural light from the left, casting gentle shadows on the artist's face and clothing
+
+**COLOR:** Warm but muted palette dominated by earthy tones of brown, grey, and ochre
+
+**COMPOSITION:** Three-quarter view of the seated man from a slightly elevated perspective, with the artist as the clear focal point and a narrative emphasis on the act of painting
+source_file: 000244_pierre-auguste-renoir_Impressionism_portrait.png
+
+Additional metadata:
+height: 2046
+width: 1382

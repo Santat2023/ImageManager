@@ -1,0 +1,35 @@
+id: 000195_f214c33b
+artist: Pierre Auguste Renoir
+style: Impressionism
+genre: nude painting
+tags: oil_painting, impressionism, nude, pose, three_quarter_view, brushwork, warm_color, blending, natural_light, interior, wooden_background, dark_hair, composition, emotion, french_art, 19th_century_art
+subject: A nude woman with a full-bodied figure, dark hair styled in an updo, and a pale, rosy complexion.
+action: Sitting in a relaxed, three-quarter pose, she leans forward with her head bowed, gently adjusting a piece of light-colored fabric with her hands.
+setting: An indoor space with a richly textured wooden wall in warm brown and ochre tones, rendered with vertical brushstrokes.
+mood: Intimate, quiet, and contemplative, evoking a sense of private vulnerability and serene grace.
+style_description: Oil painting on canvas in the Impressionist style, characterized by expressive, visible brushstrokes and soft blending that suggest form and texture rather than defining them precisely.
+lighting: Soft, diffused natural light coming from above and slightly in front of the subject, creating gentle highlights and subtle shadows that model the figure's form.
+color: Warm palette dominated by rich ochres, deep browns in the background, and soft peachy and creamy tones on the skin, with pale white and cream in the fabric.
+composition: Viewed from a three-quarter angle, the figure is the central focal point, framed by the vertical lines of the wooden background. The composition emphasizes form and space, with strong depth created by the layered background and the intimate proximity of the figure.
+caption_full: **TAGS:** oil_painting, impressionism, nude, pose, three_quarter_view, brushwork, warm_color, blending, natural_light, interior, wooden_background, dark_hair, composition, emotion, french_art, 19th_century_art
+
+**SUBJECT:** A nude woman with a full-bodied figure, dark hair styled in an updo, and a pale, rosy complexion.
+
+**ACTION:** Sitting in a relaxed, three-quarter pose, she leans forward with her head bowed, gently adjusting a piece of light-colored fabric with her hands.
+
+**SETTING:** An indoor space with a richly textured wooden wall in warm brown and ochre tones, rendered with vertical brushstrokes.
+
+**MOOD:** Intimate, quiet, and contemplative, evoking a sense of private vulnerability and serene grace.
+
+**STYLE:** Oil painting on canvas in the Impressionist style, characterized by expressive, visible brushstrokes and soft blending that suggest form and texture rather than defining them precisely.
+
+**LIGHTING:** Soft, diffused natural light coming from above and slightly in front of the subject, creating gentle highlights and subtle shadows that model the figure's form.
+
+**COLOR:** Warm palette dominated by rich ochres, deep browns in the background, and soft peachy and creamy tones on the skin, with pale white and cream in the fabric.
+
+**COMPOSITION:** Viewed from a three-quarter angle, the figure is the central focal point, framed by the vertical lines of the wooden background. The composition emphasizes form and space, with strong depth created by the layered background and the intimate proximity of the figure.
+source_file: 000195_pierre-auguste-renoir_Impressionism_nude_painting.png
+
+Additional metadata:
+height: 1648
+width: 1382

@@ -1,0 +1,35 @@
+id: 000080_e742c37d
+artist: Vincent Van Gogh
+style: Post Impressionism
+genre: landscape
+tags: landscape, post_impressionism, oil_painting, village, tree, house, street, rural_scene, sky, dynamic_composition, brushwork, color_expressive, path, cloud, hue
+subject: A village with houses, buildings, and a large cypress tree. The houses are painted in warm yellows, ochres, and greens with architectural details like rooftops, windows, and shutters. A winding path descends through the scene.
+action: The cypress tree sways in the wind, its leaves and branches moving dynamically. The entire landscape appears to be in motion, with energetic brushstrokes suggesting gusts of wind across the hills and sky.
+setting: A rural, hilly landscape with rolling green hills under a dark, swirling sky. The scene includes trees and small structures, suggesting a settled community in a temperate, possibly Mediterranean, region.
+mood: Dramatic, turbulent, and emotionally charged, evoking a sense of restlessness and intensity.
+style_description: Post-Impressionist oil painting with thick, expressive brushstrokes applied on canvas. The technique emphasizes emotion and movement over realistic representation.
+lighting: Strong contrasts between light and shadow create depth and highlight the houses and tree against the sky. The light appears to come from an unseen source, casting defined shadows and emphasizing the texture of the brushwork.
+color: Vibrant and intense hues dominate the palette, with deep purples and blues in the sky, rich greens in the foliage and hills, and warm yellows and ochres on the buildings. The color shifts dramatically from the foreground to the background, enhancing the atmospheric quality.
+composition: Viewed from an elevated perspective, looking down a hill toward the village. The winding path leads the eye through the scene, while the large cypress tree acts as a central focal point. The composition is dynamic, with directional brushstrokes creating a sense of movement and energy across the entire frame.
+caption_full: **TAGS:** landscape, post_impressionism, oil_painting, village, tree, house, street, rural_scene, sky, dynamic_composition, brushwork, color_expressive, path, cloud, hue
+
+**SUBJECT:** A village with houses, buildings, and a large cypress tree. The houses are painted in warm yellows, ochres, and greens with architectural details like rooftops, windows, and shutters. A winding path descends through the scene.
+
+**ACTION:** The cypress tree sways in the wind, its leaves and branches moving dynamically. The entire landscape appears to be in motion, with energetic brushstrokes suggesting gusts of wind across the hills and sky.
+
+**SETTING:** A rural, hilly landscape with rolling green hills under a dark, swirling sky. The scene includes trees and small structures, suggesting a settled community in a temperate, possibly Mediterranean, region.
+
+**MOOD:** Dramatic, turbulent, and emotionally charged, evoking a sense of restlessness and intensity.
+
+**STYLE:** Post-Impressionist oil painting with thick, expressive brushstrokes applied on canvas. The technique emphasizes emotion and movement over realistic representation.
+
+**LIGHTING:** Strong contrasts between light and shadow create depth and highlight the houses and tree against the sky. The light appears to come from an unseen source, casting defined shadows and emphasizing the texture of the brushwork.
+
+**COLOR:** Vibrant and intense hues dominate the palette, with deep purples and blues in the sky, rich greens in the foliage and hills, and warm yellows and ochres on the buildings. The color shifts dramatically from the foreground to the background, enhancing the atmospheric quality.
+
+**COMPOSITION:** Viewed from an elevated perspective, looking down a hill toward the village. The winding path leads the eye through the scene, while the large cypress tree acts as a central focal point. The composition is dynamic, with directional brushstrokes creating a sense of movement and energy across the entire frame.
+source_file: 000080_vincent-van-gogh_Post_Impressionism_landscape.png
+
+Additional metadata:
+height: 1382
+width: 1899

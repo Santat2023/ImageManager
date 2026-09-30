@@ -1,0 +1,35 @@
+id: 000176_1cd53019
+artist: Vincent Van Gogh
+style: Post Impressionism
+genre: still life
+tags: oil_painting, post_impressionism, still_life, sculpture, bust, nude, stone_statue, dark_background, color, brushwork, impasto, chiaroscuro, texture, signature, van_gogh
+subject: A white marble bust of a female nude figure, shown from the waist up. The sculpture depicts a slender body with prominent breasts, a visible navel, and long arms that are largely missing. It is mounted on a simple circular base.
+action: The figure stands in a neutral pose, viewed from a three-quarter perspective.
+setting: A dark blue background with deep indigo shadows and subtle highlights, creating a dramatic contrast. The base of the statue rests on a surface that has patches of green and pale blue.
+mood: Dramatic, contemplative, and intense.
+style_description: Rendered in oil paint with thick, visible impasto brushstrokes. The medium captures the texture of the stone sculpture and creates an expressive, almost sculptural quality in the paint itself. The style is characteristic of Post-Impressionism.
+lighting: The lighting appears to come from the upper left, casting soft shadows on the right side of the figure. The composition uses a dramatic chiaroscuro effect, with a strong contrast between the bright white of the marble bust and the deep blue background.
+color: The color palette features vibrant, rich hues focused on blue and green for the background and earthy whites for the sculpture.
+composition: The composition uses a full three-quarter view with a slightly elevated angle. The artwork has a dynamic quality due to the energetic brushwork and strong sense of depth created by lighting. The figure is the central focal point, with the dark background enhancing its prominence.
+caption_full: **TAGS:** oil_painting, post_impressionism, still_life, sculpture, bust, nude, stone_statue, dark_background, color, brushwork, impasto, chiaroscuro, texture, signature, van_gogh
+
+**SUBJECT:** A white marble bust of a female nude figure, shown from the waist up. The sculpture depicts a slender body with prominent breasts, a visible navel, and long arms that are largely missing. It is mounted on a simple circular base.
+
+**ACTION:** The figure stands in a neutral pose, viewed from a three-quarter perspective.
+
+**SETTING:** A dark blue background with deep indigo shadows and subtle highlights, creating a dramatic contrast. The base of the statue rests on a surface that has patches of green and pale blue.
+
+**MOOD:** Dramatic, contemplative, and intense.
+
+**STYLE:** Rendered in oil paint with thick, visible impasto brushstrokes. The medium captures the texture of the stone sculpture and creates an expressive, almost sculptural quality in the paint itself. The style is characteristic of Post-Impressionism.
+
+**LIGHTING:** The lighting appears to come from the upper left, casting soft shadows on the right side of the figure. The composition uses a dramatic chiaroscuro effect, with a strong contrast between the bright white of the marble bust and the deep blue background.
+
+**COLOR:** The color palette features vibrant, rich hues focused on blue and green for the background and earthy whites for the sculpture.
+
+**COMPOSITION:** The composition uses a full three-quarter view with a slightly elevated angle. The artwork has a dynamic quality due to the energetic brushwork and strong sense of depth created by lighting. The figure is the central focal point, with the dark background enhancing its prominence.
+source_file: 000176_vincent-van-gogh_Post_Impressionism_still_life.png
+
+Additional metadata:
+height: 1840
+width: 1382

@@ -1,0 +1,35 @@
+id: 000133_11347027
+artist: Vincent Van Gogh
+style: Realism
+genre: genre painting
+tags: oil_painting, realism, genre_scene, full_view, woman, dress, accessory, walking, outdoor, skin, natural_light, brushwork
+subject: A woman in a traditional dress and headscarf, viewed from behind. She wears a dark, long-sleeved garment with a fitted bodice and a full skirt. A light-colored apron, tied at the waist, covers her front. Over this, she wears a dark, full-length skirt that reaches to her ankles. She has a fair complexion, visible on her neck and hands, with short hair that appears light in color.
+action: Walking forward, viewed from behind, with one hand holding the hem of her dark dress.
+setting: An outdoor setting with a dark, dense background suggesting foliage or shadow.
+mood: Contemplative, quiet, and introspective.
+style_description: Earthy tones used to depict a light color. The textures are rich, captured with expressive brushwork that conveys the softness of skin and fabric. The image has a clear medium-to-high level of detail, characterized by oil paint application.
+lighting: The light source illuminates the figure from the left, creating soft highlights on her profile and back, with strong contrasts between light and shadow.
+color: Warm but subtle, dominated by earthy browns and deep tones.
+composition: A full-figure composition emphasizing the subject's form and movement, with the figure centered and the background receding into shadow.
+caption_full: **TAGS:** oil_painting, realism, genre_scene, full_view, woman, dress, accessory, walking, outdoor, skin, natural_light, brushwork
+
+**SUBJECT:** A woman in a traditional dress and headscarf, viewed from behind. She wears a dark, long-sleeved garment with a fitted bodice and a full skirt. A light-colored apron, tied at the waist, covers her front. Over this, she wears a dark, full-length skirt that reaches to her ankles. She has a fair complexion, visible on her neck and hands, with short hair that appears light in color.
+
+**ACTION:** Walking forward, viewed from behind, with one hand holding the hem of her dark dress.
+
+**SETTING:** An outdoor setting with a dark, dense background suggesting foliage or shadow.
+
+**MOOD:** Contemplative, quiet, and introspective.
+
+**STYLE:** Earthy tones used to depict a light color. The textures are rich, captured with expressive brushwork that conveys the softness of skin and fabric. The image has a clear medium-to-high level of detail, characterized by oil paint application.
+
+**LIGHTING:** The light source illuminates the figure from the left, creating soft highlights on her profile and back, with strong contrasts between light and shadow.
+
+**COLOR:** Warm but subtle, dominated by earthy browns and deep tones.
+
+**COMPOSITION:** A full-figure composition emphasizing the subject's form and movement, with the figure centered and the background receding into shadow.
+source_file: 000133_vincent-van-gogh_Realism_genre_painting.png
+
+Additional metadata:
+height: 2554
+width: 1382

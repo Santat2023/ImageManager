@@ -1,0 +1,35 @@
+id: 000140_feb30c1b
+artist: Vincent Van Gogh
+style: Realism
+genre: still life
+tags: still_life, ink_drawing, sketch, realism, object, composition, dark, lighting, medium, texture, brown, natural_light, detailed, line, color, calm, perspective, color_neutral, drawing, brushwork, shading, minimalism, object_placement
+subject: a still life arrangement featuring a square-framed pendulum clock, a woven bag containing sticks, and a two-tiered shelf with circular bowls
+action: three objects are arranged in a static composition on a wall
+setting: an indoor setting with a plain wall background showing subtle vertical texture
+mood: calm, contemplative, quiet
+style_description: ink sketch with expressive line work, detailed rendering, and visible texture
+lighting: soft, even, and diffuse with subtle shadows defining form
+color: monochromatic with warm brown-grey tones on a light paper background
+composition: vertical arrangement with balanced object placement across different planes, straight-on perspective, and distributed focus creating depth and harmony
+caption_full: **TAGS:** still_life, ink_drawing, sketch, realism, object, composition, dark, lighting, medium, texture, brown, natural_light, detailed, line, color, calm, perspective, color_neutral, drawing, brushwork, shading, minimalism, object_placement
+
+**SUBJECT:** a still life arrangement featuring a square-framed pendulum clock, a woven bag containing sticks, and a two-tiered shelf with circular bowls
+
+**ACTION:** three objects are arranged in a static composition on a wall
+
+**SETTING:** an indoor setting with a plain wall background showing subtle vertical texture
+
+**MOOD:** calm, contemplative, quiet
+
+**STYLE:** ink sketch with expressive line work, detailed rendering, and visible texture
+
+**LIGHTING:** soft, even, and diffuse with subtle shadows defining form
+
+**COLOR:** monochromatic with warm brown-grey tones on a light paper background
+
+**COMPOSITION:** vertical arrangement with balanced object placement across different planes, straight-on perspective, and distributed focus creating depth and harmony
+source_file: 000140_vincent-van-gogh_Realism_still_life.png
+
+Additional metadata:
+height: 2280
+width: 1382

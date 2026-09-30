@@ -1,0 +1,27 @@
+id: 000192_e3b22580
+artist: Vincent Van Gogh
+style: Post Impressionism
+genre: sketch and study
+tags: sketch, drawing, pencil_drawing, ink_drawing, study, figure_study, man, figure, hat, brushwork, post_impressionism, van_gogh
+subject: A man in a military-style uniform and hat
+action: Sitting on a wooden bench with his head turned to the side, arms crossed, and legs extended
+setting: Outdoors on a plain, light-colored surface with minimal environmental detail
+mood: Contemplative, introspective
+style_description: Expressive sketch with quick, visible strokes and hatching to define form and volume
+lighting: Soft, diffused light with darker shading to create contrast and depth
+color: Monochromatic palette of black, brown, and light beige
+composition: Side profile view with the subject positioned slightly to the right, framed to emphasize posture and physical presence
+caption_full: **TAGS:** sketch, drawing, pencil_drawing, ink_drawing, study, figure_study, man, figure, hat, brushwork, post_impressionism, van_gogh
+**SUBJECT:** A man in a military-style uniform and hat
+**ACTION:** Sitting on a wooden bench with his head turned to the side, arms crossed, and legs extended
+**SETTING:** Outdoors on a plain, light-colored surface with minimal environmental detail
+**MOOD:** Contemplative, introspective
+**STYLE:** Expressive sketch with quick, visible strokes and hatching to define form and volume
+**LIGHTING:** Soft, diffused light with darker shading to create contrast and depth
+**COLOR:** Monochromatic palette of black, brown, and light beige
+**COMPOSITION:** Side profile view with the subject positioned slightly to the right, framed to emphasize posture and physical presence
+source_file: 000192_vincent-van-gogh_Post_Impressionism_sketch_and_study.png
+
+Additional metadata:
+height: 1382
+width: 2236

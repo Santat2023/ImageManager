@@ -1,0 +1,35 @@
+id: 000020_b3129808
+artist: Rembrandt
+style: Baroque
+genre: sketch and study
+tags: sketch, drawing, ink_drawing, portrait, bust_portrait, old_person, woman, old, rembrandt, baroque, study, etching, line, chiaroscuro, faces, lineart, texture
+subject: An elderly woman with deeply lined skin and a soft head covering.
+action: Gazing directly forward with a contemplative expression.
+setting: A plain, neutral background with no specific environment.
+mood: Contemplative, somber, introspective.
+style_description: A sketch rendered in ink on paper with strong, expressive lines and a study-like quality.
+lighting: Dramatic chiaroscuro with dark, directional lines radiating from behind the head, creating strong contrast and emphasizing form.
+color: Monochromatic, relying on the contrast between dark ink and light paper.
+composition: A centered, full-face bust portrait with a strong focal point on the face, framed by radiating lines that create depth and focus.
+caption_full: **TAGS:** sketch, drawing, ink_drawing, portrait, bust_portrait, old_person, woman, old, rembrandt, baroque, study, etching, line, chiaroscuro, faces, lineart, texture
+
+**SUBJECT:** An elderly woman with deeply lined skin and a soft head covering.
+
+**ACTION:** Gazing directly forward with a contemplative expression.
+
+**SETTING:** A plain, neutral background with no specific environment.
+
+**MOOD:** Contemplative, somber, introspective.
+
+**STYLE:** A sketch rendered in ink on paper with strong, expressive lines and a study-like quality.
+
+**LIGHTING:** Dramatic chiaroscuro with dark, directional lines radiating from behind the head, creating strong contrast and emphasizing form.
+
+**COLOR:** Monochromatic, relying on the contrast between dark ink and light paper.
+
+**COMPOSITION:** A centered, full-face bust portrait with a strong focal point on the face, framed by radiating lines that create depth and focus.
+source_file: 000020_rembrandt_Baroque_sketch_and_study.png
+
+Additional metadata:
+height: 1664
+width: 1382

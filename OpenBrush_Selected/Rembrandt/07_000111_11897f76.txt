@@ -1,0 +1,35 @@
+id: 000111_11897f76
+artist: Rembrandt
+style: Baroque
+genre: Unknown Genre
+tags: oil_painting, baroque, religious_scene, full_view, chiaroscuro, blending, warm_color, dramatic_light
+subject: A plump cherub with curly brown hair and large wings, wearing a simple white cloth wrapped around its waist. The angel has a round face with rosy cheeks and bright eyes.
+action: Seated in a relaxed pose, holding a glass globe in one hand while the other rests near an arrow quiver slung across its back. The cherub looks slightly upward with a curious expression.
+setting: A dark, indistinct background with rich red and blue fabrics draped beneath the figure, suggesting a cloth-covered surface or vestments.
+mood: Intimate, contemplative, and serene, with a sense of quiet wonder.
+style_description: Oil on canvas with smooth, soft blending, emphasizing texture and detail in the skin and drapery. The style reflects Baroque attention to realism and emotional depth.
+lighting: Dramatic chiaroscuro lighting from the upper left, illuminating the angel's face and body while casting deep shadows in the background.
+color: Warm flesh tones contrast with rich reds, deep blues, and earthy browns, creating a warm and harmonious palette.
+composition: Pictured from a slightly elevated three-quarter view, with the angel as the central focus. The composition uses sharp focus on the face and upper body, creating a strong visual hierarchy against the dark, shadowed background.
+caption_full: **TAGS:** oil_painting, baroque, religious_scene, full_view, chiaroscuro, blending, warm_color, dramatic_light
+
+**SUBJECT:** A plump cherub with curly brown hair and large wings, wearing a simple white cloth wrapped around its waist. The angel has a round face with rosy cheeks and bright eyes.
+
+**ACTION:** Seated in a relaxed pose, holding a glass globe in one hand while the other rests near an arrow quiver slung across its back. The cherub looks slightly upward with a curious expression.
+
+**SETTING:** A dark, indistinct background with rich red and blue fabrics draped beneath the figure, suggesting a cloth-covered surface or vestments.
+
+**MOOD:** Intimate, contemplative, and serene, with a sense of quiet wonder.
+
+**STYLE:** Oil on canvas with smooth, soft blending, emphasizing texture and detail in the skin and drapery. The style reflects Baroque attention to realism and emotional depth.
+
+**LIGHTING:** Dramatic chiaroscuro lighting from the upper left, illuminating the angel's face and body while casting deep shadows in the background.
+
+**COLOR:** Warm flesh tones contrast with rich reds, deep blues, and earthy browns, creating a warm and harmonious palette.
+
+**COMPOSITION:** Pictured from a slightly elevated three-quarter view, with the angel as the central focus. The composition uses sharp focus on the face and upper body, creating a strong visual hierarchy against the dark, shadowed background.
+source_file: 000111_rembrandt_Baroque_Unknown Genre.png
+
+Additional metadata:
+height: 1382
+width: 1710

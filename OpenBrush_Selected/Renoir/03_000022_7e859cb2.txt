@@ -1,0 +1,35 @@
+id: 000022_7e859cb2
+artist: Pierre Auguste Renoir
+style: Impressionism
+genre: cityscape
+tags: oil_painting, impressionism, landscape, outdoor_scene, tree, house, building, foliage, lighting, color, brushwork, paint_texture, nature, french_art, plein_air, day_time
+subject: A cluster of trees with textured green and reddish leaves, standing before a yellow-orange house with a red-tiled roof. The trees' trunks are slender and dark, while the foliage appears dense and varied in color where it catches the light. In the foreground, a grassy area shows patches of green and brown earth.
+action: Trees stand still, their leaves gently catching the sunlight.
+setting: An outdoor urban environment, likely a city or village in southern Europe. A light-colored building with a red-tiled roof is visible behind the trees, situated on slightly elevated ground. Another smaller structure can be seen in the distant background.
+mood: Serene and peaceful, evoking a quiet, sun-drenched afternoon.
+style_description: The artwork is rendered as an oil painting on canvas. It exhibits a classic Impressionistic style, characterized by visible brushstrokes that capture the play of light across forms. The color palette is vibrant and warm, with an emphasis on capturing a fleeting moment of natural light rather than precise detail.
+lighting: Natural daylight illuminates the scene, creating a bright and airy atmosphere with soft shadows. The light appears to be coming from the upper right, highlighting the foliage and the house.
+color: The palette consists of warm yellows, oranges, greens, and a light blue sky, emphasizing the warmth of the day. The colors are vibrant and saturated, with rich contrasts between the foliage and the building.
+composition: Viewed from a medium distance, the composition is framed with trees in the foreground and slightly to the left. The focus is on the overall impression of the scene rather than individual details, with the house and background structures receding into the distance.
+caption_full: **TAGS:** oil_painting, impressionism, landscape, outdoor_scene, tree, house, building, foliage, lighting, color, brushwork, paint_texture, nature, french_art, plein_air, day_time
+
+**SUBJECT:** A cluster of trees with textured green and reddish leaves, standing before a yellow-orange house with a red-tiled roof. The trees' trunks are slender and dark, while the foliage appears dense and varied in color where it catches the light. In the foreground, a grassy area shows patches of green and brown earth.
+
+**ACTION:** Trees stand still, their leaves gently catching the sunlight.
+
+**SETTING:** An outdoor urban environment, likely a city or village in southern Europe. A light-colored building with a red-tiled roof is visible behind the trees, situated on slightly elevated ground. Another smaller structure can be seen in the distant background.
+
+**MOOD:** Serene and peaceful, evoking a quiet, sun-drenched afternoon.
+
+**STYLE:** The artwork is rendered as an oil painting on canvas. It exhibits a classic Impressionistic style, characterized by visible brushstrokes that capture the play of light across forms. The color palette is vibrant and warm, with an emphasis on capturing a fleeting moment of natural light rather than precise detail.
+
+**LIGHTING:** Natural daylight illuminates the scene, creating a bright and airy atmosphere with soft shadows. The light appears to be coming from the upper right, highlighting the foliage and the house.
+
+**COLOR:** The palette consists of warm yellows, oranges, greens, and a light blue sky, emphasizing the warmth of the day. The colors are vibrant and saturated, with rich contrasts between the foliage and the building.
+
+**COMPOSITION:** Viewed from a medium distance, the composition is framed with trees in the foreground and slightly to the left. The focus is on the overall impression of the scene rather than individual details, with the house and background structures receding into the distance.
+source_file: 000022_pierre-auguste-renoir_Impressionism_cityscape.png
+
+Additional metadata:
+height: 1382
+width: 1940

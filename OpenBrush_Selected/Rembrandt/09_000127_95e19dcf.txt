@@ -1,0 +1,35 @@
+id: 000127_95e19dcf
+artist: Rembrandt
+style: Baroque
+genre: sketch and study
+tags: sketch, study, portrait, gender_male, bearded_man, figure, three_quarter_view, profile, realism, line, monochrome, light, chiaroscuro, brushwork
+subject: An elderly man with a long beard and hair tied back, wearing simple clothing.
+action: Sitting with hands clasped in his lap, looking down and to the side with a contemplative expression.
+setting: A simple, unadorned environment with a plain background and a low surface, possibly a rock or mound of earth.
+mood: Contemplative, introspective, and solemn.
+style_description: A sketch or study using ink or pencil on paper, emphasizing form and expression through line and subtle shading.
+lighting: Soft, directional light from above and the right, creating subtle shadows that model the figure's features and clothing.
+color: Monochromatic, with sepia or brown tones on a light paper background.
+composition: The figure is positioned on the left side of the frame in a three-quarter view, with ample negative space to the right, creating a balanced and focused composition.
+caption_full: **TAGS:** sketch, study, portrait, gender_male, bearded_man, figure, three_quarter_view, profile, realism, line, monochrome, light, chiaroscuro, brushwork
+
+**SUBJECT:** An elderly man with a long beard and hair tied back, wearing simple clothing.
+
+**ACTION:** Sitting with hands clasped in his lap, looking down and to the side with a contemplative expression.
+
+**SETTING:** A simple, unadorned environment with a plain background and a low surface, possibly a rock or mound of earth.
+
+**MOOD:** Contemplative, introspective, and solemn.
+
+**STYLE:** A sketch or study using ink or pencil on paper, emphasizing form and expression through line and subtle shading.
+
+**LIGHTING:** Soft, directional light from above and the right, creating subtle shadows that model the figure's features and clothing.
+
+**COLOR:** Monochromatic, with sepia or brown tones on a light paper background.
+
+**COMPOSITION:** The figure is positioned on the left side of the frame in a three-quarter view, with ample negative space to the right, creating a balanced and focused composition.
+source_file: 000127_rembrandt_Baroque_sketch_and_study.png
+
+Additional metadata:
+height: 1682
+width: 1381

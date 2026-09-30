@@ -1,0 +1,35 @@
+id: 000255_694fb8dd
+artist: Pierre Auguste Renoir
+style: Impressionism
+genre: nude painting
+tags: oil_painting, impressionism, nude, portrait, landscape, full_view, female, long_hair, dress_red, pose, outdoor, tree, natural_light, focus, brushwork, warm_color, 19th_century_art
+subject: A nude woman with fair skin and long, flowing reddish-brown hair. A second woman with dark hair, wearing a red dress, stands behind her.
+action: The nude woman sits with her legs bent, holding a white cloth to cover her chest and another white object in her other hand. The standing woman gently arranges the seated woman's hair with both hands.
+setting: An outdoor park-like environment with trees and grass. A straw hat rests on the ground nearby.
+mood: Serene, intimate, and tranquil.
+style_description: Impressionist oil painting with soft focus, visible brushstrokes, and a delicate, atmospheric rendering.
+lighting: Natural, soft, and diffused, creating gentle highlights on the figures' skin and a dappled effect in the background.
+color: Warm earth tones with accents of vibrant red in the standing woman's dress and lush greens in the foliage.
+composition: Viewed from a slightly elevated angle, with the figures centered in the frame. The composition emphasizes the intimate interaction, using soft focus to draw attention to the figures while the background recedes.
+caption_full: **TAGS:** oil_painting, impressionism, nude, portrait, landscape, full_view, female, long_hair, dress_red, pose, outdoor, tree, natural_light, focus, brushwork, warm_color, 19th_century_art
+
+**SUBJECT:** A nude woman with fair skin and long, flowing reddish-brown hair. A second woman with dark hair, wearing a red dress, stands behind her.
+
+**ACTION:** The nude woman sits with her legs bent, holding a white cloth to cover her chest and another white object in her other hand. The standing woman gently arranges the seated woman's hair with both hands.
+
+**SETTING:** An outdoor park-like environment with trees and grass. A straw hat rests on the ground nearby.
+
+**MOOD:** Serene, intimate, and tranquil.
+
+**STYLE:** Impressionist oil painting with soft focus, visible brushstrokes, and a delicate, atmospheric rendering.
+
+**LIGHTING:** Natural, soft, and diffused, creating gentle highlights on the figures' skin and a dappled effect in the background.
+
+**COLOR:** Warm earth tones with accents of vibrant red in the standing woman's dress and lush greens in the foliage.
+
+**COMPOSITION:** Viewed from a slightly elevated angle, with the figures centered in the frame. The composition emphasizes the intimate interaction, using soft focus to draw attention to the figures while the background recedes.
+source_file: 000255_pierre-auguste-renoir_Impressionism_nude_painting.png
+
+Additional metadata:
+height: 2079
+width: 1382

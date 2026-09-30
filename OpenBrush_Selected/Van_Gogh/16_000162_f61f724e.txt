@@ -1,0 +1,35 @@
+id: 000162_f61f724e
+artist: Vincent Van Gogh
+style: Post Impressionism
+genre: landscape
+tags: oil_painting, post_impressionism, landscape, tree, rural_scene, warm_color, brushwork, expression, autumn, street, van_gogh, french_art, energetic_lines, ochre_tones
+subject: A village street scene featuring tall trees with thick trunks and sprawling branches, a woman in dark clothing holding a basket, other figures in the distance, buildings with green shutters, a lamppost, and scattered crates.
+action: A woman stands on the left, holding a basket, while other figures walk or sit along the path. The trees' branches extend outward, creating a natural canopy over the street.
+setting: A European village street with cobblestone paths, buildings with green shutters, a traditional lamppost, and scattered crates. The scene is set in autumn, with trees full of warm-colored leaves.
+mood: Serene and contemplative, with a sense of quiet rural life and the gentle passage of time.
+style_description: Oil painting in a Post-Impressionist style, characterized by thick, expressive brushstrokes and a focus on emotional expression over realism.
+lighting: Bright, warm light bathes the scene, casting a golden glow that highlights the autumnal colors and creates strong contrasts between light and shadow.
+color: Dominated by warm ochres, yellows, and browns, with accents of green, blue, and purple in the foliage, shadows, and buildings. The palette is vibrant and harmonious.
+composition: Eye-level perspective looking down the village street, framed by trees on both sides. The path leads the viewer's eye into the background, with overlapping branches creating depth and a natural canopy. The composition is dynamic, with swirling brushstrokes guiding the gaze through the scene.
+caption_full: **TAGS:** oil_painting, post_impressionism, landscape, tree, rural_scene, warm_color, brushwork, expression, autumn, street, van_gogh, french_art, energetic_lines, ochre_tones
+
+**SUBJECT:** A village street scene featuring tall trees with thick trunks and sprawling branches, a woman in dark clothing holding a basket, other figures in the distance, buildings with green shutters, a lamppost, and scattered crates.
+
+**ACTION:** A woman stands on the left, holding a basket, while other figures walk or sit along the path. The trees' branches extend outward, creating a natural canopy over the street.
+
+**SETTING:** A European village street with cobblestone paths, buildings with green shutters, a traditional lamppost, and scattered crates. The scene is set in autumn, with trees full of warm-colored leaves.
+
+**MOOD:** Serene and contemplative, with a sense of quiet rural life and the gentle passage of time.
+
+**STYLE:** Oil painting in a Post-Impressionist style, characterized by thick, expressive brushstrokes and a focus on emotional expression over realism.
+
+**LIGHTING:** Bright, warm light bathes the scene, casting a golden glow that highlights the autumnal colors and creates strong contrasts between light and shadow.
+
+**COLOR:** Dominated by warm ochres, yellows, and browns, with accents of green, blue, and purple in the foliage, shadows, and buildings. The palette is vibrant and harmonious.
+
+**COMPOSITION:** Eye-level perspective looking down the village street, framed by trees on both sides. The path leads the viewer's eye into the background, with overlapping branches creating depth and a natural canopy. The composition is dynamic, with swirling brushstrokes guiding the gaze through the scene.
+source_file: 000162_vincent-van-gogh_Post_Impressionism_landscape.png
+
+Additional metadata:
+height: 1382
+width: 1753

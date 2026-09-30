@@ -1,0 +1,35 @@
+id: 000039_5eb9c81a
+artist: Rembrandt
+style: Baroque
+genre: portrait
+tags: rembrandt, baroque, portrait, bust_portrait, man, figure, hat, broad_hat, wear, ink_drawing, etching, line, chiaroscuro, shadow, light, faces, gaze_direct, expression_neutral, brushwork, blending, textures, dramatic_light, realism, emotion
+subject: man, seated figure, broad-brimmed hat, cloak, white collar shirt, light-colored gloves
+action: seated, facing forward, direct gaze
+setting: indoor setting, wooden chair with high back, plain light background
+mood: introspective, calm, dignified, contemplative
+style_description: etching, line art, naturalistic rendering, detailed line work, fine lines, artistic rendering
+lighting: frontal, soft highlights, strong shadows, chiaroscuro, dramatic lighting, naturalistic
+color: monochromatic, black and white, dark medium, light grey
+composition: bust-length portrait, centered, frontal perspective, direct gaze, sharp focus on face, depth through shadow, intimate framing
+caption_full: **TAGS:** rembrandt, baroque, portrait, bust_portrait, man, figure, hat, broad_hat, wear, ink_drawing, etching, line, chiaroscuro, shadow, light, faces, gaze_direct, expression_neutral, brushwork, blending, textures, dramatic_light, realism, emotion
+
+**SUBJECT:** man, seated figure, broad-brimmed hat, cloak, white collar shirt, light-colored gloves
+
+**ACTION:** seated, facing forward, direct gaze
+
+**SETTING:** indoor setting, wooden chair with high back, plain light background
+
+**MOOD:** introspective, calm, dignified, contemplative
+
+**STYLE:** etching, line art, naturalistic rendering, detailed line work, fine lines, artistic rendering
+
+**LIGHTING:** frontal, soft highlights, strong shadows, chiaroscuro, dramatic lighting, naturalistic
+
+**COLOR:** monochromatic, black and white, dark medium, light grey
+
+**COMPOSITION:** bust-length portrait, centered, frontal perspective, direct gaze, sharp focus on face, depth through shadow, intimate framing
+source_file: 000039_rembrandt_Baroque_portrait.png
+
+Additional metadata:
+height: 1725
+width: 1382

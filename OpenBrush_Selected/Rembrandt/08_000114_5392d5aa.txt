@@ -1,0 +1,35 @@
+id: 000114_5392d5aa
+artist: Rembrandt
+style: Baroque
+genre: genre painting
+tags: oil_painting, baroque, portrait, genre_scene, full_view, three_quarter_view, chiaroscuro, impasto, brushwork, warm_color, theme
+subject: A man and a woman, a man in a golden tunic and a woman in a red gown, both adorned with jewelry.
+action: The man embraces the woman, his arm around her, looking down at her with tenderness as she gazes up at him, their hands clasped over her chest.
+setting: A dimly lit interior with soft shadows, featuring faint architectural elements and foliage in the background.
+mood: Intimate, tender, and romantic.
+style_description: Oil on canvas with expressive brushwork and impasto technique, creating rich texture in the clothing and skin.
+lighting: Soft, directional light from the upper left, creating subtle highlights and deep shadows through chiaroscuro.
+color: Dominated by deep reds, golds, and earthy browns, with a warm and rich palette.
+composition: A three-quarter view composition from a slightly elevated angle, focusing on the couple's connection with the figures as the central focal point.
+caption_full: **TAGS:** oil_painting, baroque, portrait, genre_scene, full_view, three_quarter_view, chiaroscuro, impasto, brushwork, warm_color, theme
+
+**SUBJECT:** A man and a woman, a man in a golden tunic and a woman in a red gown, both adorned with jewelry.
+
+**ACTION:** The man embraces the woman, his arm around her, looking down at her with tenderness as she gazes up at him, their hands clasped over her chest.
+
+**SETTING:** A dimly lit interior with soft shadows, featuring faint architectural elements and foliage in the background.
+
+**MOOD:** Intimate, tender, and romantic.
+
+**STYLE:** Oil on canvas with expressive brushwork and impasto technique, creating rich texture in the clothing and skin.
+
+**LIGHTING:** Soft, directional light from the upper left, creating subtle highlights and deep shadows through chiaroscuro.
+
+**COLOR:** Dominated by deep reds, golds, and earthy browns, with a warm and rich palette.
+
+**COMPOSITION:** A three-quarter view composition from a slightly elevated angle, focusing on the couple's connection with the figures as the central focal point.
+source_file: 000114_rembrandt_Baroque_genre_painting.png
+
+Additional metadata:
+height: 1382
+width: 1917

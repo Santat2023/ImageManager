@@ -1,0 +1,35 @@
+id: 000286_6747a9c6
+artist: Rembrandt
+style: Baroque
+genre: religious painting
+tags: oil_painting, baroque, religious_scene, portrait, full_view, man, bearded, robe, chiaroscuro, dark_background, light, dramatic_light, three_quarter_view
+subject: a bearded man with long hair, wearing loose-fitting draped robes of earthy tones, holding a large dark stone tablet
+action: raising a stone tablet above his head with both hands, gazing downward with a solemn expression
+setting: a dark, indistinct landscape with warm earthy tones and soft shadows, suggesting a rugged outdoor setting
+mood: solemn, reverent, dramatic
+style_description: oil paint on canvas, Baroque period, expressive brushwork, strong chiaroscuro
+lighting: dramatic lighting with strong contrasts between deep shadows and highlights, warm light illuminating the subject's face and robes
+color: dominated by warm earth tones—browns, ochres, and deep reds—with a dark, muted background
+composition: full-figure portrait in three-quarter view, focused on the man's face and form, with the stone tablet as a central focal point, creating a sense of depth and spiritual significance
+caption_full: **TAGS:** oil_painting, baroque, religious_scene, portrait, full_view, man, bearded, robe, chiaroscuro, dark_background, light, dramatic_light, three_quarter_view
+
+**SUBJECT:** a bearded man with long hair, wearing loose-fitting draped robes of earthy tones, holding a large dark stone tablet
+
+**ACTION:** raising a stone tablet above his head with both hands, gazing downward with a solemn expression
+
+**SETTING:** a dark, indistinct landscape with warm earthy tones and soft shadows, suggesting a rugged outdoor setting
+
+**MOOD:** solemn, reverent, dramatic
+
+**STYLE:** oil paint on canvas, Baroque period, expressive brushwork, strong chiaroscuro
+
+**LIGHTING:** dramatic lighting with strong contrasts between deep shadows and highlights, warm light illuminating the subject's face and robes
+
+**COLOR:** dominated by warm earth tones—browns, ochres, and deep reds—with a dark, muted background
+
+**COMPOSITION:** full-figure portrait in three-quarter view, focused on the man's face and form, with the stone tablet as a central focal point, creating a sense of depth and spiritual significance
+source_file: 000286_rembrandt_Baroque_religious_painting.png
+
+Additional metadata:
+height: 1699
+width: 1382

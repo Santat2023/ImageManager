@@ -3,7 +3,6 @@ from pathlib import Path
 import json
 import re
 
-# Делаем имена авторов лаконичными для гибкого поиска совпадений
 NEW_ARTISTS_DATASETS = {
     #"Rembrandt": {"repo": "jaddai/openbrush-rembrandt", "search_name": "Rembrandt"},
     "Renoir": {"repo": "jaddai/openbrush-renoir", "search_name": "Renoir"},

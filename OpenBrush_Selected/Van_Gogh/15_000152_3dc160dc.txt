@@ -1,0 +1,35 @@
+id: 000152_3dc160dc
+artist: Vincent Van Gogh
+style: Realism
+genre: landscape
+tags: landscape, watercolor, impressionism, realism, rural, field, sky, horizon, nature, outdoor, natural_light, blending, brushwork, muted_color, atmospheric_perspective, shot, earth_tones, serene
+subject: A rural moorland landscape with a dense foreground of dark green and yellow foliage, patches of white pebbles, and an overturned wooden boat in the middle ground.
+action: A small wooden boat rests overturned on a patch of pale yellow-green grass.
+setting: An open, rural countryside with a vast sky above, featuring soft horizontal bands of color transitioning from pale pink to grey-blue, suggesting early morning or late afternoon.
+mood: Serene and tranquil, evoking a quiet, contemplative atmosphere.
+style_description: Watercolor with soft blending and visible brushstrokes, capturing natural light and atmospheric effects in a realistic yet impressionistic manner.
+lighting: Natural, soft lighting with a gentle glow across the scene, suggesting early morning or late afternoon, casting subtle shadows.
+color: Muted greens, yellows, earthy browns, and a soft pink and grey sky, creating a harmonious and subdued palette.
+composition: A wide shot viewed from a low angle, emphasizing depth through layered foliage, fields, and distant hills, with the horizon line as the focal point drawing the eye across the landscape.
+caption_full: **TAGS:** landscape, watercolor, impressionism, realism, rural, field, sky, horizon, nature, outdoor, natural_light, blending, brushwork, muted_color, atmospheric_perspective, shot, earth_tones, serene
+
+**SUBJECT:** A rural moorland landscape with a dense foreground of dark green and yellow foliage, patches of white pebbles, and an overturned wooden boat in the middle ground.
+
+**ACTION:** A small wooden boat rests overturned on a patch of pale yellow-green grass.
+
+**SETTING:** An open, rural countryside with a vast sky above, featuring soft horizontal bands of color transitioning from pale pink to grey-blue, suggesting early morning or late afternoon.
+
+**MOOD:** Serene and tranquil, evoking a quiet, contemplative atmosphere.
+
+**STYLE:** Watercolor with soft blending and visible brushstrokes, capturing natural light and atmospheric effects in a realistic yet impressionistic manner.
+
+**LIGHTING:** Natural, soft lighting with a gentle glow across the scene, suggesting early morning or late afternoon, casting subtle shadows.
+
+**COLOR:** Muted greens, yellows, earthy browns, and a soft pink and grey sky, creating a harmonious and subdued palette.
+
+**COMPOSITION:** A wide shot viewed from a low angle, emphasizing depth through layered foliage, fields, and distant hills, with the horizon line as the focal point drawing the eye across the landscape.
+source_file: 000152_vincent-van-gogh_Realism_landscape.png
+
+Additional metadata:
+height: 1382
+width: 2039

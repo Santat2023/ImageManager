@@ -1,0 +1,35 @@
+id: 000281_941bfe06
+artist: Pierre Auguste Renoir
+style: Impressionism
+genre: genre painting
+tags: oil_painting, impressionism, genre_scene, outdoor, garden, house, tree, flower, figure, lighting, light, focus, brushstrokes_loose, color, natural_light, rural_scene, daylight
+subject: A garden scene with a house, trees, and flowering plants. Several figures are present, including two seated individuals in the foreground and a woman on a balcony.
+action: Two people are seated on the ground, one appears to be resting or talking. Another person stands in a doorway, while a woman observes from a balcony above.
+setting: An outdoor garden in front of a white-walled house. The scene includes a large tree, a stone wall, a fountain, and abundant flowering bushes.
+mood: Relaxed, tranquil, and contemplative, evoking a sense of peaceful domestic life.
+style_description: Impressionist oil painting with loose, expressive brushstrokes that emphasize light and color over precise detail.
+lighting: Natural sunlight creates dappled light and soft shadows, with bright highlights and a warm, glowing atmosphere.
+color: Warm palette dominated by yellows, greens, and pinks, with vibrant, blended hues that suggest sunlight and foliage.
+composition: Viewed from a slightly elevated perspective, the composition leads the eye from the foreground figures across the garden to the house. The arrangement creates a clear sense of depth, with the figures in the foreground and the house in the background.
+caption_full: **TAGS:** oil_painting, impressionism, genre_scene, outdoor, garden, house, tree, flower, figure, lighting, light, focus, brushstrokes_loose, color, natural_light, rural_scene, daylight
+
+**SUBJECT:** A garden scene with a house, trees, and flowering plants. Several figures are present, including two seated individuals in the foreground and a woman on a balcony.
+
+**ACTION:** Two people are seated on the ground, one appears to be resting or talking. Another person stands in a doorway, while a woman observes from a balcony above.
+
+**SETTING:** An outdoor garden in front of a white-walled house. The scene includes a large tree, a stone wall, a fountain, and abundant flowering bushes.
+
+**MOOD:** Relaxed, tranquil, and contemplative, evoking a sense of peaceful domestic life.
+
+**STYLE:** Impressionist oil painting with loose, expressive brushstrokes that emphasize light and color over precise detail.
+
+**LIGHTING:** Natural sunlight creates dappled light and soft shadows, with bright highlights and a warm, glowing atmosphere.
+
+**COLOR:** Warm palette dominated by yellows, greens, and pinks, with vibrant, blended hues that suggest sunlight and foliage.
+
+**COMPOSITION:** Viewed from a slightly elevated perspective, the composition leads the eye from the foreground figures across the garden to the house. The arrangement creates a clear sense of depth, with the figures in the foreground and the house in the background.
+source_file: 000281_pierre-auguste-renoir_Impressionism_genre_painting.png
+
+Additional metadata:
+height: 1382
+width: 1676

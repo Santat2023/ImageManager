@@ -1,0 +1,35 @@
+id: 000016_ded2b965
+artist: Vincent Van Gogh
+style: Realism
+genre: sketch and study
+tags: sketch, study, drawing, realism, portrait, full_view, woman, hooded, wear, standing, profile, three_quarter_view, line, gestural, monochrome, blending, textures, pose, light, colors
+subject: A woman in a full figure view, wrapped in a dark, heavy cloak with a hood that partially obscures her face. She wears a long, dark dress over a lighter undergarment. Her body is slightly angled, with arms gently clasped in front of her.
+action: Standing with a contemplative posture, her arms clasped in front of her, and her head bowed slightly under the hood.
+setting: A plain, light-colored background with no distinct features, creating a minimalist context.
+mood: Contemplative, somber, and introspective.
+style_description: Charcoal sketch with expressive lines and soft blending, emphasizing gesture, texture, and form in a realistic, gestural style.
+lighting: Soft, diffused light from the front-left, creating gentle shadows that model the figure's form and clothing.
+color: Monochromatic and subdued, using a range of grays on medium gray paper to convey depth and tonal variation.
+composition: Framed as a full-figure portrait in a three-quarter view from the subject's right side, with a strong vertical line created by the standing figure. The composition is balanced, focusing on the figure against the simple background, with the gaze directed downward, enhancing the sense of introspection.
+caption_full: **TAGS:** sketch, study, drawing, realism, portrait, full_view, woman, hooded, wear, standing, profile, three_quarter_view, line, gestural, monochrome, blending, textures, pose, light, colors
+
+**SUBJECT:** A woman in a full figure view, wrapped in a dark, heavy cloak with a hood that partially obscures her face. She wears a long, dark dress over a lighter undergarment. Her body is slightly angled, with arms gently clasped in front of her.
+
+**ACTION:** Standing with a contemplative posture, her arms clasped in front of her, and her head bowed slightly under the hood.
+
+**SETTING:** A plain, light-colored background with no distinct features, creating a minimalist context.
+
+**MOOD:** Contemplative, somber, and introspective.
+
+**STYLE:** Charcoal sketch with expressive lines and soft blending, emphasizing gesture, texture, and form in a realistic, gestural style.
+
+**LIGHTING:** Soft, diffused light from the front-left, creating gentle shadows that model the figure's form and clothing.
+
+**COLOR:** Monochromatic and subdued, using a range of grays on medium gray paper to convey depth and tonal variation.
+
+**COMPOSITION:** Framed as a full-figure portrait in a three-quarter view from the subject's right side, with a strong vertical line created by the standing figure. The composition is balanced, focusing on the figure against the simple background, with the gaze directed downward, enhancing the sense of introspection.
+source_file: 000016_vincent-van-gogh_Realism_sketch_and_study.png
+
+Additional metadata:
+height: 2370
+width: 1382

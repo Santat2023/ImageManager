@@ -1,0 +1,35 @@
+id: 000164_82729994
+artist: Vincent Van Gogh
+style: Realism
+genre: sketch and study
+tags: sketch, drawing, pencil_drawing, realism, genre_scene, man, outdoor, full_view, rural, hat, jacket, pants, walking, monochrome, chiaroscuro, brushwork, line, study
+subject: A man in simple working attire, including a jacket, trousers, and a hat, viewed from behind.
+action: Walking away with a slightly bent posture, carrying a scythe in one hand and another tool in the other.
+setting: An outdoor grassy field with uneven terrain.
+mood: Weary, laborious, and contemplative.
+style_description: Monochrome pencil or charcoal drawing with expressive lines and shading, rendered in a study-like, unfinished quality.
+lighting: Soft, natural light source creating subtle shadows and highlights along the contours of the figure and ground, emphasizing form through chiaroscuro.
+color: Monochromatic, with a range of tonal values from light to dark, creating depth and texture through contrast.
+composition: Rear view focused on the figure’s silhouette, with a clear focal point on the man and a slightly blurred background suggesting depth and perspective.
+caption_full: **TAGS:** sketch, drawing, pencil_drawing, realism, genre_scene, man, outdoor, full_view, rural, hat, jacket, pants, walking, monochrome, chiaroscuro, brushwork, line, study
+
+**SUBJECT:** A man in simple working attire, including a jacket, trousers, and a hat, viewed from behind.
+
+**ACTION:** Walking away with a slightly bent posture, carrying a scythe in one hand and another tool in the other.
+
+**SETTING:** An outdoor grassy field with uneven terrain.
+
+**MOOD:** Weary, laborious, and contemplative.
+
+**STYLE:** Monochrome pencil or charcoal drawing with expressive lines and shading, rendered in a study-like, unfinished quality.
+
+**LIGHTING:** Soft, natural light source creating subtle shadows and highlights along the contours of the figure and ground, emphasizing form through chiaroscuro.
+
+**COLOR:** Monochromatic, with a range of tonal values from light to dark, creating depth and texture through contrast.
+
+**COMPOSITION:** Rear view focused on the figure’s silhouette, with a clear focal point on the man and a slightly blurred background suggesting depth and perspective.
+source_file: 000164_vincent-van-gogh_Realism_sketch_and_study.png
+
+Additional metadata:
+height: 2180
+width: 1382

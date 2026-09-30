@@ -1,0 +1,35 @@
+id: 000128_ba3a6c8f
+artist: Vincent Van Gogh
+style: Post Impressionism
+genre: sketch and study
+tags: oil_painting, post_impressionism, landscape, genre_scene, rural_scene, sun, field, hat, figure, composition, line, texture, warm_color, color, viewpoint, sky, horizon, brushwork
+subject: A solitary male farmer in a wide-brimmed straw hat, long-sleeved shirt, and trousers.
+action: Walking across a harvested field with his right arm extended, appearing to have just thrown seed or completed a sowing motion.
+setting: An expansive rural landscape featuring a plowed wheat field under a bright sun at the horizon, with distant cottages visible along the horizon line.
+mood: Contemplative and industrious, evoking a sense of quiet labor and connection to the land.
+style_description: Post-Impressionist oil painting with thick, expressive brushstrokes, impasto technique, and a textured surface created through layered paint application.
+lighting: Strong backlighting from a low-hanging sun, casting long, radiating lines of light across the sky and creating a luminous glow.
+color: Warm earth tones dominated by ochre, umber, and sienna, with subtle contrasts between the golden field and the pale sky.
+composition: Low viewpoint with a strong horizontal horizon line, diagonal plowed furrows leading into the distance, and a vertical composition emphasizing the figure against the expansive landscape. The sun serves as a central focal point, drawing the eye across the field.
+caption_full: **TAGS:** oil_painting, post_impressionism, landscape, genre_scene, rural_scene, sun, field, hat, figure, composition, line, texture, warm_color, color, viewpoint, sky, horizon, brushwork
+
+**SUBJECT:** A solitary male farmer in a wide-brimmed straw hat, long-sleeved shirt, and trousers.
+
+**ACTION:** Walking across a harvested field with his right arm extended, appearing to have just thrown seed or completed a sowing motion.
+
+**SETTING:** An expansive rural landscape featuring a plowed wheat field under a bright sun at the horizon, with distant cottages visible along the horizon line.
+
+**MOOD:** Contemplative and industrious, evoking a sense of quiet labor and connection to the land.
+
+**STYLE:** Post-Impressionist oil painting with thick, expressive brushstrokes, impasto technique, and a textured surface created through layered paint application.
+
+**LIGHTING:** Strong backlighting from a low-hanging sun, casting long, radiating lines of light across the sky and creating a luminous glow.
+
+**COLOR:** Warm earth tones dominated by ochre, umber, and sienna, with subtle contrasts between the golden field and the pale sky.
+
+**COMPOSITION:** Low viewpoint with a strong horizontal horizon line, diagonal plowed furrows leading into the distance, and a vertical composition emphasizing the figure against the expansive landscape. The sun serves as a central focal point, drawing the eye across the field.
+source_file: 000128_vincent-van-gogh_Post_Impressionism_sketch_and_study.png
+
+Additional metadata:
+height: 1382
+width: 1764

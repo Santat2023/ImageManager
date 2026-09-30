@@ -1,0 +1,35 @@
+id: 000084_b07a44bb
+artist: Pierre Auguste Renoir
+style: Impressionism
+genre: Unknown Genre
+tags: oil_painting, impressionism, still_life, floral_arrangement, flower, vase, furniture, brushstrokes_loose, color, light, natural_light, outdoor, texture, edges, colorful, impasto, lighting, tones, yellow_rose, dark_background, luminous_sky, detailed, medium_format, 19th_century_art, french_art, painting
+subject: a floral arrangement, a dark vase, a table surface
+action: a bouquet of flowers arranged in a vase
+setting: an outdoor setting with green foliage and a pale sky
+mood: serene, tranquil, peaceful
+style_description: impressionist oil painting with visible brushstrokes and thick paint application
+lighting: natural daylight filtering through trees, creating dappled light and soft highlights
+color: vibrant hues of pink, red, yellow, and green against a dark vase, with warm tones and soft pastel accents
+composition: close-up still life, eye-level perspective, balanced composition with the vase as the central focus, depth created by atmospheric perspective in the background
+caption_full: **TAGS:** oil_painting, impressionism, still_life, floral_arrangement, flower, vase, furniture, brushstrokes_loose, color, light, natural_light, outdoor, texture, edges, colorful, impasto, lighting, tones, yellow_rose, dark_background, luminous_sky, detailed, medium_format, 19th_century_art, french_art, painting
+
+**SUBJECT:** a floral arrangement, a dark vase, a table surface
+
+**ACTION:** a bouquet of flowers arranged in a vase
+
+**SETTING:** an outdoor setting with green foliage and a pale sky
+
+**MOOD:** serene, tranquil, peaceful
+
+**STYLE:** impressionist oil painting with visible brushstrokes and thick paint application
+
+**LIGHTING:** natural daylight filtering through trees, creating dappled light and soft highlights
+
+**COLOR:** vibrant hues of pink, red, yellow, and green against a dark vase, with warm tones and soft pastel accents
+
+**COMPOSITION:** close-up still life, eye-level perspective, balanced composition with the vase as the central focus, depth created by atmospheric perspective in the background
+source_file: 000084_pierre-auguste-renoir_Impressionism_Unknown Genre.png
+
+Additional metadata:
+height: 1382
+width: 1752

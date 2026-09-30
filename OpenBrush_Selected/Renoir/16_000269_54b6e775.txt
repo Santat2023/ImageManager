@@ -1,0 +1,35 @@
+id: 000269_54b6e775
+artist: Pierre Auguste Renoir
+style: Impressionism
+genre: nude painting
+tags: oil_painting, impressionism, nude, portrait, landscape, hair_red, long_hair, standing, full_view, natural_light, outdoor, rippling_water, blending, color, brushstrokes_broad, brushwork, light, lighting, pose
+subject: A nude woman with fair skin and long red hair
+action: Standing in water with arms slightly curled around her chest and one hand touching her abdomen, her head tilted down with closed eyes and a serene expression
+setting: A natural body of water, likely a river or pond, with green foliage reflected at the top left and rippling water across the background
+mood: Serene, contemplative, and tranquil
+style_description: Impressionist oil painting with soft blending, broad and visible brushstrokes, and a focus on light and movement over precise detail
+lighting: Natural daylight from above and slightly in front, creating soft highlights on the figure and illuminating the scene with warm, diffused light
+color: Vibrant and warm palette dominated by golden yellows, rich reds in the hair, soft whites on the skin, and green reflections in the water
+composition: Full-figure portrait centered on the woman from a direct frontal viewpoint at eye-level, with the figure as the clear focal point, atmospheric ripples adding depth, and a medium depth of field emphasizing the subject against the reflective background
+caption_full: **TAGS:** oil_painting, impressionism, nude, portrait, landscape, hair_red, long_hair, standing, full_view, natural_light, outdoor, rippling_water, blending, color, brushstrokes_broad, brushwork, light, lighting, pose
+
+**SUBJECT:** A nude woman with fair skin and long red hair
+
+**ACTION:** Standing in water with arms slightly curled around her chest and one hand touching her abdomen, her head tilted down with closed eyes and a serene expression
+
+**SETTING:** A natural body of water, likely a river or pond, with green foliage reflected at the top left and rippling water across the background
+
+**MOOD:** Serene, contemplative, and tranquil
+
+**STYLE:** Impressionist oil painting with soft blending, broad and visible brushstrokes, and a focus on light and movement over precise detail
+
+**LIGHTING:** Natural daylight from above and slightly in front, creating soft highlights on the figure and illuminating the scene with warm, diffused light
+
+**COLOR:** Vibrant and warm palette dominated by golden yellows, rich reds in the hair, soft whites on the skin, and green reflections in the water
+
+**COMPOSITION:** Full-figure portrait centered on the woman from a direct frontal viewpoint at eye-level, with the figure as the clear focal point, atmospheric ripples adding depth, and a medium depth of field emphasizing the subject against the reflective background
+source_file: 000269_pierre-auguste-renoir_Impressionism_nude_painting.png
+
+Additional metadata:
+height: 1772
+width: 1382

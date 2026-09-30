@@ -1,0 +1,35 @@
+id: 000044_8317f4a6
+artist: Pierre Auguste Renoir
+style: Impressionism
+genre: still life
+tags: oil_painting, impressionism, still_life, fruit, apple, signature, natural_light, brushwork, warm_color, texture, painting, domestic_scene, lighting_bright, soft_shadows, 19th_century, french_art
+subject: A collection of round, red apples and green leaves arranged in a natural, abundant pile on a flat surface. The apples are depicted with a range of warm red and orange tones, showing variations in light and shadow. The leaves are broad and organic, interspersed throughout the arrangement. The entire composition rests on a light-colored, neutral surface.
+action: A still life arrangement of apples and leaves, with a few apples scattered loosely around the main pile.
+setting: An indoor domestic setting with a simple, unadorned surface. The background is softly blurred and indistinct, composed of muted beige, green, and blue tones that suggest a neutral, non-specific environment.
+mood: Serene and contemplative, evoking a quiet moment of domestic abundance and natural simplicity.
+style_description: Oil on canvas with a loose, expressive technique. The artist employs visible brushstrokes to capture texture and light, emphasizing the vibrancy of the subject over precise detail. The approach is painterly and impressionistic, focusing on the interplay of color and form.
+lighting: Natural, soft daylight entering from the upper right, creating gentle highlights on the apples and casting subtle shadows. The light is diffused, contributing to a calm and even illumination across the scene.
+color: Dominated by warm reds and oranges of the apples, contrasted with rich, deep greens of the leaves. The background features neutral off-white tones with hints of blue and green, creating a balanced and harmonious palette.
+composition: A close-up, slightly elevated view from the right side, focusing on the foreground. The composition is centered on the pile of fruit, with a few apples extending to the right, creating a sense of depth and natural arrangement. The perspective is horizontal and eye-level, emphasizing the still life subject.
+caption_full: **TAGS:** oil_painting, impressionism, still_life, fruit, apple, signature, natural_light, brushwork, warm_color, texture, painting, domestic_scene, lighting_bright, soft_shadows, 19th_century, french_art
+
+**SUBJECT:** A collection of round, red apples and green leaves arranged in a natural, abundant pile on a flat surface. The apples are depicted with a range of warm red and orange tones, showing variations in light and shadow. The leaves are broad and organic, interspersed throughout the arrangement. The entire composition rests on a light-colored, neutral surface.
+
+**ACTION:** A still life arrangement of apples and leaves, with a few apples scattered loosely around the main pile.
+
+**SETTING:** An indoor domestic setting with a simple, unadorned surface. The background is softly blurred and indistinct, composed of muted beige, green, and blue tones that suggest a neutral, non-specific environment.
+
+**MOOD:** Serene and contemplative, evoking a quiet moment of domestic abundance and natural simplicity.
+
+**STYLE:** Oil on canvas with a loose, expressive technique. The artist employs visible brushstrokes to capture texture and light, emphasizing the vibrancy of the subject over precise detail. The approach is painterly and impressionistic, focusing on the interplay of color and form.
+
+**LIGHTING:** Natural, soft daylight entering from the upper right, creating gentle highlights on the apples and casting subtle shadows. The light is diffused, contributing to a calm and even illumination across the scene.
+
+**COLOR:** Dominated by warm reds and oranges of the apples, contrasted with rich, deep greens of the leaves. The background features neutral off-white tones with hints of blue and green, creating a balanced and harmonious palette.
+
+**COMPOSITION:** A close-up, slightly elevated view from the right side, focusing on the foreground. The composition is centered on the pile of fruit, with a few apples extending to the right, creating a sense of depth and natural arrangement. The perspective is horizontal and eye-level, emphasizing the still life subject.
+source_file: 000044_pierre-auguste-renoir_Impressionism_still_life.png
+
+Additional metadata:
+height: 1382
+width: 1987

@@ -1,0 +1,35 @@
+id: 000289_6a944880
+artist: Pierre Auguste Renoir
+style: Impressionism
+genre: portrait
+tags: oil_painting, impressionism, portrait, figure, girl, brown_hair, long_hair, hair, dress, jewelry, accessory, flower, light, warm_color, brushstroke, brushwork, seated, full_view, pose, domestic_scene, romanticism
+subject: A young girl with long, wavy brown hair and a small white flower in her hair. She wears a light blue striped dress and a golden necklace. Her face is round and rosy with large dark eyes and full lips.
+action: Sitting at a table, leaning forward with her arms resting on the surface, she reaches for a small ceramic container with her right hand while her left hand holds another.
+setting: An indoor domestic interior with a soft, warm brown background that fades into shadow.
+mood: Intimate, contemplative, and serene.
+style_description: Oil on canvas with a loose, expressive Impressionist style, featuring visible, fluid brushstrokes and soft focus.
+lighting: Soft, natural light from above and slightly to the left, creating gentle highlights on her face and hands.
+color: Dominated by warm yellows, ochres, and browns, contrasted with the cool blue of her dress and the golden tones of her necklace and hair.
+composition: A full-figure portrait from a slightly elevated front-facing angle, with the girl's face and hands as the focal point. The background is softly blurred to enhance depth and intimacy, and the composition emphasizes the domestic scene with a natural, unposed arrangement.
+caption_full: **TAGS:** oil_painting, impressionism, portrait, figure, girl, brown_hair, long_hair, hair, dress, jewelry, accessory, flower, light, warm_color, brushstroke, brushwork, seated, full_view, pose, domestic_scene, romanticism
+
+**SUBJECT:** A young girl with long, wavy brown hair and a small white flower in her hair. She wears a light blue striped dress and a golden necklace. Her face is round and rosy with large dark eyes and full lips.
+
+**ACTION:** Sitting at a table, leaning forward with her arms resting on the surface, she reaches for a small ceramic container with her right hand while her left hand holds another.
+
+**SETTING:** An indoor domestic interior with a soft, warm brown background that fades into shadow.
+
+**MOOD:** Intimate, contemplative, and serene.
+
+**STYLE:** Oil on canvas with a loose, expressive Impressionist style, featuring visible, fluid brushstrokes and soft focus.
+
+**LIGHTING:** Soft, natural light from above and slightly to the left, creating gentle highlights on her face and hands.
+
+**COLOR:** Dominated by warm yellows, ochres, and browns, contrasted with the cool blue of her dress and the golden tones of her necklace and hair.
+
+**COMPOSITION:** A full-figure portrait from a slightly elevated front-facing angle, with the girl's face and hands as the focal point. The background is softly blurred to enhance depth and intimacy, and the composition emphasizes the domestic scene with a natural, unposed arrangement.
+source_file: 000289_pierre-auguste-renoir_Impressionism_portrait.png
+
+Additional metadata:
+height: 1690
+width: 1382

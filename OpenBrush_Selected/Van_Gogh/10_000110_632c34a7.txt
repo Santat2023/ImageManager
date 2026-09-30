@@ -1,0 +1,35 @@
+id: 000110_632c34a7
+artist: Vincent Van Gogh
+style: Post Impressionism
+genre: landscape
+tags: oil_painting, post_impressionism, landscape, field, rural_scene, vivid_colors, brushwork, dynamic_composition, sky, van_gogh, period_late_19th_century
+subject: A vast golden wheat field, rolling hills, patches of green vegetation, distant trees, and a small white structure.
+action: The wheat field sways under a turbulent sky, with wind-swept brushstrokes conveying movement across the landscape.
+setting: A rural landscape under a vast, stormy sky, with rolling hills and a distant horizon.
+mood: Dramatic, turbulent, and restless, evoking the power of nature and impending weather.
+style_description: Painted in oil on canvas with bold, expressive brushstrokes in the Post-Impressionist style, emphasizing texture and emotional intensity.
+lighting: Bright daylight with strong contrasts, creating a sense of sunlit movement across the field and deep shadows beneath the storm clouds.
+color: Dominated by warm golden yellows in the foreground, contrasting with cool deep blues, purples, and greys in the sky, with accents of green and red-brown.
+composition: Viewed from a slightly low angle, emphasizing the expansive field with horizontal bands of texture receding into the distance, strong diagonals in the wheat rows, and a dominant sky occupying the upper half of the frame.
+caption_full: **TAGS:** oil_painting, post_impressionism, landscape, field, rural_scene, vivid_colors, brushwork, dynamic_composition, sky, van_gogh, period_late_19th_century
+
+**SUBJECT:** A vast golden wheat field, rolling hills, patches of green vegetation, distant trees, and a small white structure.
+
+**ACTION:** The wheat field sways under a turbulent sky, with wind-swept brushstrokes conveying movement across the landscape.
+
+**SETTING:** A rural landscape under a vast, stormy sky, with rolling hills and a distant horizon.
+
+**MOOD:** Dramatic, turbulent, and restless, evoking the power of nature and impending weather.
+
+**STYLE:** Painted in oil on canvas with bold, expressive brushstrokes in the Post-Impressionist style, emphasizing texture and emotional intensity.
+
+**LIGHTING:** Bright daylight with strong contrasts, creating a sense of sunlit movement across the field and deep shadows beneath the storm clouds.
+
+**COLOR:** Dominated by warm golden yellows in the foreground, contrasting with cool deep blues, purples, and greys in the sky, with accents of green and red-brown.
+
+**COMPOSITION:** Viewed from a slightly low angle, emphasizing the expansive field with horizontal bands of texture receding into the distance, strong diagonals in the wheat rows, and a dominant sky occupying the upper half of the frame.
+source_file: 000110_vincent-van-gogh_Post_Impressionism_landscape.png
+
+Additional metadata:
+height: 1382
+width: 1804

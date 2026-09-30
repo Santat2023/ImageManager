@@ -1,0 +1,27 @@
+id: 000072_ba8a25bf
+artist: Vincent Van Gogh
+style: Realism
+genre: genre painting
+tags: realism, genre_scene, landscape, plein_air, natural_light, medium_shot, figure, outdoor, 19th_century_art, naturalism, skirt, portrait, man, pose, simple_clothing, earth_tones, texture, tree, clothing, blending, wear, rural, field, shading, nature
+subject: A male peasant man in full figure, wearing a dark cap, a simple brown coat, and heavy trousers. He has a weathered, middle-aged face with prominent cheekbones and deep-set eyes.
+action: Walking forward with a purposeful stride, his right arm extended and his left hand holding a sack.
+setting: An open field with sparse trees in the background, rendered as a soft, distant landscape.
+mood: Contemplative and somber, evoking a sense of quiet endurance and rural labor.
+style_description: Charcoal drawing with visible hatching and sketchy strokes, employing a naturalistic style with detailed texture.
+lighting: Natural light illuminating the figure from the front, creating soft shadows and highlighting the form.
+color: Monochromatic palette dominated by grey shades and earthy tones, with subtle variations in value.
+composition: Medium shot capturing the full body of the figure in a dynamic walking pose, framed against a shallow depth of field with the background receding into soft focus.
+caption_full: **TAGS:** realism, genre_scene, landscape, plein_air, natural_light, medium_shot, figure, outdoor, 19th_century_art, naturalism, skirt, portrait, man, pose, simple_clothing, earth_tones, texture, tree, clothing, blending, wear, rural, field, shading, nature
+**SUBJECT:** A male peasant man in full figure, wearing a dark cap, a simple brown coat, and heavy trousers. He has a weathered, middle-aged face with prominent cheekbones and deep-set eyes.
+**ACTION:** Walking forward with a purposeful stride, his right arm extended and his left hand holding a sack.
+**SETTING:** An open field with sparse trees in the background, rendered as a soft, distant landscape.
+**MOOD:** Contemplative and somber, evoking a sense of quiet endurance and rural labor.
+**STYLE:** Charcoal drawing with visible hatching and sketchy strokes, employing a naturalistic style with detailed texture.
+**LIGHTING:** Natural light illuminating the figure from the front, creating soft shadows and highlighting the form.
+**COLOR:** Monochromatic palette dominated by grey shades and earthy tones, with subtle variations in value.
+**COMPOSITION:** Medium shot capturing the full body of the figure in a dynamic walking pose, framed against a shallow depth of field with the background receding into soft focus.
+source_file: 000072_vincent-van-gogh_Realism_genre_painting.png
+
+Additional metadata:
+height: 2004
+width: 1382

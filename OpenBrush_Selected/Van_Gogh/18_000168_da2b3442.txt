@@ -1,0 +1,35 @@
+id: 000168_da2b3442
+artist: Vincent Van Gogh
+style: Post Impressionism
+genre: sketch and study
+tags: sketch, landscape, river, reflection, nature, observational_study, ink_drawing, watercolor, post_impressionism, van_gogh, rural_scene, hillside, sky, figure, forest, path
+subject: A river, a prominent tree on a hill, cultivated fields, a low barrier, and a bird in flight.
+action: A small figure walks along the riverbank, a bird flies over the water, and the tree stands still.
+setting: A rural landscape with a wide river, rolling hills, and a distant horizon under an overcast sky.
+mood: Tranquil, contemplative, and serene.
+style_description: Expressive sketch with ink and watercolor, featuring textured lines and visible brushwork.
+lighting: Soft and diffused, suggesting an overcast day with gentle shadows.
+color: Monochromatic, with a range of grey values to depict light and shadow.
+composition: Horizontal landscape viewed from a low angle across the river, using reflection to create symmetry between the top and bottom halves of the image.
+caption_full: **TAGS:** sketch, landscape, river, reflection, nature, observational_study, ink_drawing, watercolor, post_impressionism, van_gogh, rural_scene, hillside, sky, figure, forest, path
+
+**SUBJECT:** A river, a prominent tree on a hill, cultivated fields, a low barrier, and a bird in flight.
+
+**ACTION:** A small figure walks along the riverbank, a bird flies over the water, and the tree stands still.
+
+**SETTING:** A rural landscape with a wide river, rolling hills, and a distant horizon under an overcast sky.
+
+**MOOD:** Tranquil, contemplative, and serene.
+
+**STYLE:** Expressive sketch with ink and watercolor, featuring textured lines and visible brushwork.
+
+**LIGHTING:** Soft and diffused, suggesting an overcast day with gentle shadows.
+
+**COLOR:** Monochromatic, with a range of grey values to depict light and shadow.
+
+**COMPOSITION:** Horizontal landscape viewed from a low angle across the river, using reflection to create symmetry between the top and bottom halves of the image.
+source_file: 000168_vincent-van-gogh_Post_Impressionism_sketch_and_study.png
+
+Additional metadata:
+height: 1382
+width: 1791

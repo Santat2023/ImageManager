@@ -1,0 +1,35 @@
+id: 000193_46ad763c
+artist: Rembrandt
+style: Baroque
+genre: Unknown Genre
+tags: portrait, bust_portrait, three_quarter_view, ink_drawing, male_face, man, hair, faces, wear, formal_attire, chiaroscuro, brushwork, expressive_craftsmanship, signature, drawing
+subject: a man with voluminous, tightly curled dark hair and a high-collared, textured overgarment
+action: speaking or laughing with his mouth open and head turned slightly to his right
+setting: plain, light-colored paper with a subtle texture, no environmental elements
+mood: animated, expressive, and contemplative
+style_description: ink drawing on paper with fine, directional lines and strong chiaroscuro
+lighting: directional light from the left, creating deep shadows on the right side of the face and body
+color: monochromatic, black ink on beige paper with high contrast
+composition: medium close-up, centered on the face with a balanced, focused layout and a signature in the upper left corner
+caption_full: **TAGS:** portrait, bust_portrait, three_quarter_view, ink_drawing, male_face, man, hair, faces, wear, formal_attire, chiaroscuro, brushwork, expressive_craftsmanship, signature, drawing
+
+**SUBJECT:** a man with voluminous, tightly curled dark hair and a high-collared, textured overgarment
+
+**ACTION:** speaking or laughing with his mouth open and head turned slightly to his right
+
+**SETTING:** plain, light-colored paper with a subtle texture, no environmental elements
+
+**MOOD:** animated, expressive, and contemplative
+
+**STYLE:** ink drawing on paper with fine, directional lines and strong chiaroscuro
+
+**LIGHTING:** directional light from the left, creating deep shadows on the right side of the face and body
+
+**COLOR:** monochromatic, black ink on beige paper with high contrast
+
+**COMPOSITION:** medium close-up, centered on the face with a balanced, focused layout and a signature in the upper left corner
+source_file: 000193_rembrandt_Baroque_Unknown Genre.png
+
+Additional metadata:
+height: 1509
+width: 1381

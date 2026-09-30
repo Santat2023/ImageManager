@@ -1,0 +1,35 @@
+id: 000067_6108ebf8
+artist: Pierre Auguste Renoir
+style: Impressionism
+genre: portrait
+tags: oil_painting, impressionism, portrait, woman, hat, hair_red, blue_eyes, jewelry, pastel, brushwork, blending, light, faces, three_quarter_view
+subject: A young woman with a delicate facial structure and rosy complexion, featuring vibrant red hair styled beneath a wide-brimmed straw hat. She wears a white garment decorated with red floral patterns and a simple gold necklace around her neck.
+action: Gazing thoughtfully toward the viewer's left with a slight turn of her head to the right, her expression is calm and contemplative.
+setting: An indistinct background composed of warm, blended yellows and oranges with cool blue accents to the left.
+mood: Serene, contemplative, and softly introspective.
+style_description: Rendered in oil on canvas, this portrait showcases strong Impressionist qualities with visible brushstrokes that define form and light. The artist uses soft blending to create a smooth transition of color across the subject's face and clothing, emphasizing delicate textures.
+lighting: Bright and natural, casting soft highlights on her face and creating a warm glow across the scene.
+color: Dominated by yellow, orange, red, and soft blue, with a vibrant yet harmonious quality.
+composition: Presented as a medium close-up from a slightly high angle, the woman is centered in the frame, with a shallow depth of field that emphasizes her face and upper torso.
+caption_full: **TAGS:** oil_painting, impressionism, portrait, woman, hat, hair_red, blue_eyes, jewelry, pastel, brushwork, blending, light, faces, three_quarter_view
+
+**SUBJECT:** A young woman with a delicate facial structure and rosy complexion, featuring vibrant red hair styled beneath a wide-brimmed straw hat. She wears a white garment decorated with red floral patterns and a simple gold necklace around her neck.
+
+**ACTION:** Gazing thoughtfully toward the viewer's left with a slight turn of her head to the right, her expression is calm and contemplative.
+
+**SETTING:** An indistinct background composed of warm, blended yellows and oranges with cool blue accents to the left.
+
+**MOOD:** Serene, contemplative, and softly introspective.
+
+**STYLE:** Rendered in oil on canvas, this portrait showcases strong Impressionist qualities with visible brushstrokes that define form and light. The artist uses soft blending to create a smooth transition of color across the subject's face and clothing, emphasizing delicate textures.
+
+**LIGHTING:** Bright and natural, casting soft highlights on her face and creating a warm glow across the scene.
+
+**COLOR:** Dominated by yellow, orange, red, and soft blue, with a vibrant yet harmonious quality.
+
+**COMPOSITION:** Presented as a medium close-up from a slightly high angle, the woman is centered in the frame, with a shallow depth of field that emphasizes her face and upper torso.
+source_file: 000067_pierre-auguste-renoir_Impressionism_portrait.png
+
+Additional metadata:
+height: 1566
+width: 1382
